@@ -1,0 +1,299 @@
+{
+  "generatedAt": "2026-07-02T21:44:38.736Z",
+  "totals": {
+    "tasks": 48,
+    "expected": 233,
+    "loaded": 198,
+    "short": 25
+  },
+  "rows": [
+    {
+      "site": "krg018F363",
+      "taskId": "20683754",
+      "expected": 4,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F409",
+      "taskId": "20683866",
+      "expected": 4,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F416",
+      "taskId": "20713792",
+      "expected": 5,
+      "loaded": 3
+    },
+    {
+      "site": "krg018F442",
+      "taskId": "20683497",
+      "expected": 4,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F443",
+      "taskId": "20684034",
+      "expected": 4,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F444",
+      "taskId": "20683885",
+      "expected": 4,
+      "loaded": 2
+    },
+    {
+      "site": "krg018F447",
+      "taskId": "20683342",
+      "expected": 6,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F449",
+      "taskId": "20684067",
+      "expected": 3,
+      "loaded": 3
+    },
+    {
+      "site": "krg018F455",
+      "taskId": "20683948",
+      "expected": 4,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F459",
+      "taskId": "20683481",
+      "expected": 5,
+      "loaded": 3
+    },
+    {
+      "site": "krg018F463",
+      "taskId": "20683301",
+      "expected": 3,
+      "loaded": 3
+    },
+    {
+      "site": "krg018F492",
+      "taskId": "20683598",
+      "expected": 4,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F495",
+      "taskId": "20683981",
+      "expected": 6,
+      "loaded": 10
+    },
+    {
+      "site": "krg018F526",
+      "taskId": "20683917",
+      "expected": 6,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F577",
+      "taskId": "20683665",
+      "expected": 8,
+      "loaded": 3
+    },
+    {
+      "site": "krg018F578",
+      "taskId": "20683708",
+      "expected": 6,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F605",
+      "taskId": "20714090",
+      "expected": 6,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F615",
+      "taskId": "20683750",
+      "expected": 4,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F618",
+      "taskId": "20683657",
+      "expected": 3,
+      "loaded": 3
+    },
+    {
+      "site": "krg018F620",
+      "taskId": "20683597",
+      "expected": 4,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F622",
+      "taskId": "20683984",
+      "expected": 6,
+      "loaded": 5
+    },
+    {
+      "site": "krg018F637",
+      "taskId": "20683536",
+      "expected": 6,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F638",
+      "taskId": "20683906",
+      "expected": 5,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F649",
+      "taskId": "20683533",
+      "expected": 3,
+      "loaded": 3
+    },
+    {
+      "site": "krg018F650",
+      "taskId": "20683538",
+      "expected": 4,
+      "loaded": 7
+    },
+    {
+      "site": "krg018F663",
+      "taskId": "20683989",
+      "expected": 4,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F670",
+      "taskId": "20683419",
+      "expected": 5,
+      "loaded": 3
+    },
+    {
+      "site": "krg018F671",
+      "taskId": "20683397",
+      "expected": 6,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F675",
+      "taskId": "20683518",
+      "expected": 5,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F685",
+      "taskId": "20683380",
+      "expected": 3,
+      "loaded": 3
+    },
+    {
+      "site": "krg018F686",
+      "taskId": "20683513",
+      "expected": 7,
+      "loaded": 5
+    },
+    {
+      "site": "krg018F688",
+      "taskId": "20683401",
+      "expected": 8,
+      "loaded": 6
+    },
+    {
+      "site": "krg018F693",
+      "taskId": "20683514",
+      "expected": 6,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F703",
+      "taskId": "20683393",
+      "expected": 6,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F704",
+      "taskId": "20683629",
+      "expected": 1,
+      "loaded": 1
+    },
+    {
+      "site": "krg018F706",
+      "taskId": "20683631",
+      "expected": 6,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F710",
+      "taskId": "20684004",
+      "expected": 4,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F716",
+      "taskId": "20683751",
+      "expected": 3,
+      "loaded": 3
+    },
+    {
+      "site": "krg018F720",
+      "taskId": "20683883",
+      "expected": 4,
+      "loaded": 2
+    },
+    {
+      "site": "krg018F737",
+      "taskId": "20683263",
+      "expected": 6,
+      "loaded": 4
+    },
+    {
+      "site": "krg018F738",
+      "taskId": "20683849",
+      "expected": 4,
+      "loaded": 2
+    },
+    {
+      "site": "krg018F743",
+      "taskId": "20683266",
+      "expected": 6,
+      "loaded": 12
+    },
+    {
+      "site": "krg018F749",
+      "taskId": "20684037",
+      "expected": 8,
+      "loaded": 6
+    },
+    {
+      "site": "krg018F751",
+      "taskId": "20683268",
+      "expected": 3,
+      "loaded": 1
+    },
+    {
+      "site": "krg018F754",
+      "taskId": "20683714",
+      "expected": 6,
+      "loaded": 6
+    },
+    {
+      "site": "krg018F757",
+      "taskId": "20683265",
+      "expected": 6,
+      "loaded": 6
+    },
+    {
+      "site": "krg018F775",
+      "taskId": "20683460",
+      "expected": 4,
+      "loaded": 6
+    },
+    {
+      "site": "krg018F776",
+      "taskId": "20683774",
+      "expected": 5,
+      "loaded": 3
+    }
+  ]
+}

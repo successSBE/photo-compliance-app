@@ -1,0 +1,9 @@
+{
+    "generatedAt":  "2026-07-02T17:46:12",
+    "stores":  64,
+    "displayTasks":  64,
+    "displayTasksWithLoadedPhotos":  48,
+    "loadedDisplayPhotos":  198,
+    "localCachedFiles":  198,
+    "note":  "Counts are based on actual photo files loaded from Trail task pages, not the task-list badge."
+}

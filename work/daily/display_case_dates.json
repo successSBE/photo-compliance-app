@@ -1,0 +1,23 @@
+{
+  "latestDate": "2026-07-03",
+  "dates": [
+    {
+      "date": "2026-07-02",
+      "label": "July 2, 2026",
+      "sourceDateRange": "2026-07-01 to 2026-07-02",
+      "path": "../work/daily/display_case_photo_rows_2026-07-02.json",
+      "importedAt": "2026-07-02T17:46:12",
+      "stores": 64,
+      "displayPhotos": 198
+    },
+    {
+      "date": "2026-07-03",
+      "label": "July 3, 2026",
+      "sourceDateRange": "2026-07-03 to 2026-07-03",
+      "path": "../work/daily/display_case_photo_rows_2026-07-03.json",
+      "importedAt": "2026-07-03T15:29:18",
+      "stores": 64,
+      "displayPhotos": 215
+    }
+  ]
+}

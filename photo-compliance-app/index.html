@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Photo Compliance Review</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="app">
+      <section class="login" id="loginView">
+        <div class="login-panel">
+          <p class="eyebrow">Michigan Food Safety Compliance</p>
+          <h1>Photo Compliance Review</h1>
+          <form id="loginForm" class="login-form">
+            <label>
+              Email
+              <input id="emailInput" type="email" autocomplete="username" required placeholder="manager@company.com" />
+            </label>
+            <label>
+              Password
+              <input id="passwordInput" type="password" autocomplete="current-password" required placeholder="Password" />
+            </label>
+            <button type="submit">Sign in</button>
+          </form>
+        </div>
+      </section>
+
+      <section class="workspace hidden" id="workspaceView">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">Kroger Display Case Photo Uploads</p>
+            <h1>Compliance Review</h1>
+          </div>
+          <div class="topbar-actions">
+            <span id="dateRange" class="date-pill"></span>
+            <button id="runAllChecksButton" type="button" class="secondary">Run All Checks</button>
+            <button id="exportButton" type="button">Export Scores</button>
+            <button id="exportEmailDraftsButton" type="button" class="secondary">Export Email Drafts</button>
+            <button id="logoutButton" type="button" class="ghost">Sign out</button>
+          </div>
+        </header>
+        <p id="batchStatus" class="batch-status"></p>
+
+        <nav class="app-tabs" aria-label="App views">
+          <button id="reviewAppTab" class="active" type="button">Review</button>
+          <button id="scoresAppTab" type="button">Scores</button>
+          <button id="calendarAppTab" type="button">Calendar</button>
+          <button id="trailAppTab" type="button">Trail</button>
+        </nav>
+
+        <section id="scoresView" class="scores-view hidden">
+          <div class="scores-panel">
+            <div class="section-title">
+              <div>
+                <p class="eyebrow">Lowest to Highest</p>
+                <h2>Store Scores</h2>
+              </div>
+              <span id="scoresSummary" class="date-pill"></span>
+            </div>
+            <div id="scoresList" class="scores-list"></div>
+          </div>
+        </section>
+
+        <section id="trailView" class="calendar-view hidden">
+          <div class="calendar-panel trail-panel">
+            <div>
+              <p class="eyebrow">Trail Account</p>
+              <h2>Connect Trail</h2>
+            </div>
+            <p id="trailStatus" class="reference-label"></p>
+            <div class="trail-actions">
+              <button id="openTrailLoginButton" type="button">Open Trail Login</button>
+              <button id="markTrailConnectedButton" type="button" class="secondary">Mark Connected</button>
+              <button id="disconnectTrailButton" type="button" class="ghost">Disconnect</button>
+            </div>
+            <div class="trail-import-box">
+              <label>
+                Import date
+                <input id="trailImportDateInput" type="date" />
+              </label>
+              <button id="openTrailReportButton" type="button">Open Trail Photo Report</button>
+            </div>
+            <p class="trail-note">
+              Sign into Trail in the browser tab that opens. The app does not save your Trail password.
+              The daily 10:00 AM import uses the connected Trail session when available.
+            </p>
+          </div>
+        </section>
+
+        <section id="calendarView" class="calendar-view hidden">
+          <div class="calendar-panel">
+            <div>
+              <p class="eyebrow">Photo Upload Date</p>
+              <h2>Select Upload Date</h2>
+            </div>
+            <div class="calendar-controls">
+              <input id="uploadDateInput" type="date" />
+              <button id="loadDateButton" type="button">Load Date</button>
+            </div>
+            <p id="calendarStatus" class="reference-label"></p>
+            <div id="availableDateList" class="available-date-list"></div>
+          </div>
+        </section>
+
+        <section id="reviewContent">
+          <section class="metrics" aria-label="Summary metrics">
+            <article>
+              <span>Stores</span>
+              <strong id="metricStores">0</strong>
+            </article>
+            <article>
+              <span>Complete</span>
+              <strong id="metricComplete">0</strong>
+            </article>
+            <article>
+              <span>Late</span>
+              <strong id="metricLate">0</strong>
+            </article>
+            <article>
+              <span>Average Score</span>
+              <strong id="metricAverage">--</strong>
+            </article>
+          </section>
+
+          <section class="main-grid">
+            <aside class="store-panel">
+              <div class="panel-tools">
+                <input id="searchInput" type="search" placeholder="Search store" />
+                <select id="statusFilter">
+                  <option value="all">All</option>
+                  <option value="needs-review">Needs review</option>
+                  <option value="late">Late</option>
+                  <option value="missing">Missing task</option>
+                  <option value="complete">Complete</option>
+                </select>
+              </div>
+              <div id="storeList" class="store-list"></div>
+            </aside>
+
+            <section class="detail-panel">
+              <div class="detail-header">
+                <div>
+                  <span id="selectedStatus" class="status-badge">Select a store</span>
+                  <h2 id="selectedStore">Store</h2>
+                </div>
+                <div class="score-ring" aria-label="Compliance score">
+                  <span id="scoreValue">--</span>
+                  <small>/100</small>
+                </div>
+              </div>
+              <div id="categoryScores" class="category-scores">
+                <h3>Separate Display Scores</h3>
+                <div class="category-score-grid">
+                  <article>
+                    <span>Fruit Case</span>
+                    <strong id="fruitScoreValue">--</strong>
+                    <small>/100</small>
+                  </article>
+                  <article>
+                    <span>Vegetable Case</span>
+                    <strong id="vegetableScoreValue">--</strong>
+                    <small>/100</small>
+                  </article>
+                </div>
+              </div>
+
+              <div class="task-tabs" role="tablist">
+                <button id="displayTab" class="active" type="button">Display Case</button>
+                <button id="bunkerTab" type="button">Destination Bunker</button>
+              </div>
+
+              <div class="review-layout">
+                <section class="photo-stage">
+                  <div class="photo-column">
+                    <div class="section-title">
+                      <h3>Uploaded Photo</h3>
+                      <div class="inline-actions">
+                        <button id="openActualFullButton" type="button" class="ghost small">Open Selected Full Size</button>
+                        <a id="photoLink" href="#" target="_blank" rel="noreferrer">Open Photos</a>
+                      </div>
+                    </div>
+                    <p id="photoCountLabel" class="reference-label"></p>
+                    <div class="photo-frame uploaded">
+                      <img id="actualPhoto" alt="Uploaded store display" />
+                      <div id="actualEmpty" class="empty-state">No uploaded photo</div>
+                    </div>
+                    <div id="photoGallery" class="photo-gallery" aria-label="Loaded uploaded photos"></div>
+                    <div class="photo-assignment-panel">
+                      <div>
+                        <button id="assignFruitPhotoButton" type="button" class="ghost small">Use Selected as Fruit</button>
+                        <button id="assignVegetablePhotoButton" type="button" class="ghost small">Use Selected as Vegetable</button>
+                      </div>
+                      <p id="photoAssignmentStatus"></p>
+                    </div>
+                    <label class="file-button">
+                      Replace photo
+                      <input id="actualUpload" type="file" accept="image/*" />
+                    </label>
+                  </div>
+
+                  <div class="photo-column">
+                  <div class="section-title">
+                    <h3>Generic Photo</h3>
+                    <div class="inline-actions">
+                      <button id="openReferenceFullButton" type="button" class="ghost small">Open Full Size</button>
+                      <button id="clearReference" type="button" class="ghost small">Clear</button>
+                    </div>
+                  </div>
+                    <select id="referenceSelect" class="reference-select" aria-label="Built-in reference photo"></select>
+                    <div class="fruit-size-panel">
+                      <label for="fruitSizeSelect">Saved fruit case size</label>
+                      <select id="fruitSizeSelect" aria-label="Saved fruit case size">
+                        <option value="display-4ft-fruit">4ft Fruit</option>
+                        <option value="display-6ft-fruit">6ft Fruit</option>
+                        <option value="display-8ft-fruit">8ft Fruit</option>
+                      </select>
+                      <p id="fruitSizeStatus"></p>
+                    </div>
+                    <p id="referenceLabel" class="reference-label"></p>
+                    <div class="photo-frame reference">
+                      <img id="referencePhoto" alt="Reference display" />
+                    <div id="referenceEmpty" class="empty-state">Upload reference</div>
+                  </div>
+                    <div id="originalReferencePanel" class="original-reference-panel">
+                      <div class="section-title compact">
+                        <h3>Original Generic Photo</h3>
+                        <button id="openOriginalReferenceFullButton" type="button" class="ghost small">Open Full Size</button>
+                      </div>
+                      <select id="originalReferenceSelect" class="reference-select" aria-label="Original generic reference photo"></select>
+                      <p id="originalReferenceLabel" class="reference-label"></p>
+                      <div class="photo-frame original-reference">
+                        <img id="originalReferencePhoto" alt="Original generic reference display" />
+                        <div id="originalReferenceEmpty" class="empty-state">No original generic photo</div>
+                      </div>
+                    </div>
+                    <label class="file-button">
+                      Upload reference
+                      <input id="referenceUpload" type="file" accept="image/*" />
+                    </label>
+                  </div>
+                </section>
+
+                <section class="review-panel">
+                  <div class="task-meta">
+                    <div>
+                      <span>Status</span>
+                      <strong id="taskStatus">--</strong>
+                    </div>
+                    <div>
+                      <span>On Time</span>
+                      <strong id="taskOnTime">--</strong>
+                    </div>
+                    <div>
+                      <span>Completed / Due</span>
+                      <strong id="taskDue">--</strong>
+                    </div>
+                    <div>
+                      <span>Timing</span>
+                      <strong id="taskTiming">--</strong>
+                    </div>
+                  </div>
+
+                  <div class="email-panel">
+                    <label for="locationEmailInput">Location email</label>
+                    <div>
+                      <input id="locationEmailInput" type="email" placeholder="store@email.com" />
+                      <button id="saveLocationEmailButton" type="button" class="secondary">Save</button>
+                    </div>
+                    <p id="emailStatus"></p>
+                  </div>
+
+                  <div class="section-title">
+                    <h3>Missing Items</h3>
+                    <button id="resetChecklist" type="button" class="ghost small">Reset</button>
+                  </div>
+                  <div id="checklist" class="checklist"></div>
+
+                  <div id="planogramSection" class="planogram-section hidden">
+                    <div class="section-title">
+                      <h3 id="planogramTitle">Planogram Items</h3>
+                      <div class="inline-actions">
+                        <button id="markPlanogramPresentButton" type="button" class="ghost small">Mark All Present</button>
+                        <button id="clearPlanogramButton" type="button" class="ghost small">Clear Present</button>
+                      </div>
+                    </div>
+                    <div id="planogramList" class="planogram-list"></div>
+                  </div>
+
+                  <div class="findings">
+                    <h3>Findings</h3>
+                    <ul id="findingsList"></ul>
+                  </div>
+
+                  <form id="assistantForm" class="assistant-bar">
+                    <label for="assistantPrompt">Compliance assistant</label>
+                    <div>
+                      <input id="assistantPrompt" type="text" placeholder="Example: mark shelf 5 missing, or mark guacamole mild present" />
+                      <button id="assistantApplyButton" type="submit">Apply</button>
+                    </div>
+                    <p id="assistantStatus"></p>
+                  </form>
+
+                  <div class="review-actions">
+                    <button id="compareButton" type="button">Compare Selected Photo</button>
+                    <button id="scoreButton" type="button" class="secondary">Score Compliance</button>
+                    <button id="emailLocationButton" type="button" class="ghost">Email Location</button>
+                    <a id="taskLink" href="#" target="_blank" rel="noreferrer" class="task-link">Open Trail Task</a>
+                  </div>
+                </section>
+              </div>
+            </section>
+          </section>
+        </section>
+      </section>
+    </main>
+
+    <script src="app.js?v=20260703-original-reference-menu-1" type="module"></script>
+  </body>
+</html>

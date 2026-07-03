@@ -1,0 +1,2498 @@
+{
+  "sourceDateRange": "2026-07-01 to 2026-07-02",
+  "generatedAt": "2026-07-02",
+  "rows": [
+    {
+      "site": "krg018F363",
+      "display": {
+        "id": "20683754",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F363",
+        "status": "Completed late",
+        "onTime": "No - late",
+        "completedOrDue": "2026-07-02 9:41 AM",
+        "timing": "42 minutes late",
+        "locationStatus": "Inside designated location",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F363",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683754",
+        "photoLink": "https://us.trailapp.com/trail/472/2026-07-02#/task/20683754/file/l87VE3vdRCqRDbN2V5Gu",
+        "imageUrl": "../work/display_case_all_images/20683754_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjAxNywiaGFuZGxlIjoibDg3VkUzdmRSQ3FSRGJOMlY1R3UifQ==,signature:8b50142162d89456a23730e56b5c26e272058dc871386b1e633b21f2faeb9b5d/l87VE3vdRCqRDbN2V5Gu",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjAxOCwiaGFuZGxlIjoiVkhBa1l6RnJUMkc2OVNzbjZGTHQifQ==,signature:e115007d5270fb288014e63ae9cb1e82d67e876e2b60069137c2da8fccac4794/VHAkYzFrT2G69Ssn6FLt",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjAxOCwiaGFuZGxlIjoiNXFUTGI1S0tRaFNkWW9hc2Q3cEYifQ==,signature:78764865e6f17184a26f139491bd2d15f9ce59892f189962bf93c79837e717fe/5qTLb5KKQhSdYoasd7pF",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjAxOCwiaGFuZGxlIjoiaWxocFQxNVJ1R3pKMFNreE01MkEifQ==,signature:1f21dfff972fe7654c99b16ead58b0ba978139e56b8455ca27f0ac2795c190c1/ilhpT15RuGzJ0SkxM52A"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683754_1.jpg",
+          "../work/display_case_all_images/20683754_2.jpg",
+          "../work/display_case_all_images/20683754_3.jpg",
+          "../work/display_case_all_images/20683754_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F366",
+      "display": {
+        "id": "20683777",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F366",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683777",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683777",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": {
+        "id": "20683824",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F366",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683824",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683824",
+        "imageUrl": "",
+        "photoCount": 0
+      }
+    },
+    {
+      "site": "krg018F409",
+      "display": {
+        "id": "20683866",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F409",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:52 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F409",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683866",
+        "photoLink": "https://us.trailapp.com/trail/478/2026-07-02#/task/20683866/file/sR1PFgzThy1cFJzWxDvS",
+        "imageUrl": "../work/display_case_all_images/20683866_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE1NCwiaGFuZGxlIjoic1IxUEZnelRoeTFjRkp6V3hEdlMifQ==,signature:937fe19bc787ec2fd95cb31f152e77a3f24390f4b5022ab759b3fe4a3030ac57/sR1PFgzThy1cFJzWxDvS",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE1NSwiaGFuZGxlIjoiV1R5S24wVmtSMnRvbW9sWGVNOVIifQ==,signature:159506a7cad659b1048a54945c9ddfe50aba677c40ea42c0a36831e71bedcb12/WTyKn0VkR2tomolXeM9R",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE1NSwiaGFuZGxlIjoieG9ZYXpZaFpSTk9wT1J1QXozQncifQ==,signature:7cd5b14341e70a25b705c70d1a3d430674621fda94bcc83309e38199b9ef6ed2/xoYazYhZRNOpORuAz3Bw",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE1NSwiaGFuZGxlIjoiemlTbllBdE5TeGFvVkprZ2UzbmYifQ==,signature:ddddeec8703e8109638ac6be14a8b7d7aca035e91f964d28a1b545bf975bd956/ziSnYAtNSxaoVJkge3nf"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683866_1.jpg",
+          "../work/display_case_all_images/20683866_2.jpg",
+          "../work/display_case_all_images/20683866_3.jpg",
+          "../work/display_case_all_images/20683866_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F416",
+      "display": {
+        "id": "20713792",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F416",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:17 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "krg018F416",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20713792",
+        "photoLink": "https://us.trailapp.com/trail/2746/2026-07-02#/task/20713792/file/CfC7foHQTCr8IeklDfnZ",
+        "imageUrl": "../work/display_case_all_images/20713792_1.jpg",
+        "photoCount": 5,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE3OSwiaGFuZGxlIjoiQ2ZDN2ZvSFFUQ3I4SWVrbERmbloifQ==,signature:0b41a5cead1e3a5e0c3ce7708a11bba3691676d48a89673635c626a79fdeebf2/CfC7foHQTCr8IeklDfnZ",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE3OSwiaGFuZGxlIjoiY3Q4UXFnVnVUVktRMkZpclFSSmcifQ==,signature:85a961e9ab10bded3c8b45203c53ac084cd60fc6d8190bb51c0e954e948478b4/ct8QqgVuTVKQ2FirQRJg",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE3OSwiaGFuZGxlIjoieEZPYUp4ZGNUQ2lYR1c2Nmw1Z0QifQ==,signature:71daa0cbb4d4d3242375f57582844cd57c3b12bc22c8056ad25b49b7e4ad31e9/xFOaJxdcTCiXGW66l5gD"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20713792_1.jpg",
+          "../work/display_case_all_images/20713792_2.jpg",
+          "../work/display_case_all_images/20713792_3.jpg"
+        ],
+        "loadedPhotoCount": 3,
+        "actualPhotoCount": 3
+      },
+      "bunker": {
+        "id": "20713849",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F416",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20713849",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20713849",
+        "imageUrl": "",
+        "photoCount": 0
+      }
+    },
+    {
+      "site": "krg018F419",
+      "display": {
+        "id": "20683789",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F419",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683789",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683789",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": {
+        "id": "20683837",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F419",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683837",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683837",
+        "imageUrl": "",
+        "photoCount": 0
+      }
+    },
+    {
+      "site": "krg018F441",
+      "display": {
+        "id": "20683643",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F441",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683643",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683643",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F442",
+      "display": {
+        "id": "20683497",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F442",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:12 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F442",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683497",
+        "photoLink": "https://us.trailapp.com/trail/450/2026-07-02#/task/20683497/file/G9ngqvcTTyk5TUqEdOBf",
+        "imageUrl": "../work/display_case_all_images/20683497_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA1OCwiaGFuZGxlIjoiRzluZ3F2Y1RUeWs1VFVxRWRPQmYifQ==,signature:d71b6d66b03447156bedc97c2279da75c8758522552794eab372a105426778b1/G9ngqvcTTyk5TUqEdOBf",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA1OSwiaGFuZGxlIjoiM3pTeGw3S29TM2VoVGFqdm5DaGoifQ==,signature:edfeb31a05630fa3e7038051d46ec3949957a47344705dfdc955011e54bd6e92/3zSxl7KoS3ehTajvnChj",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA1OSwiaGFuZGxlIjoiWThiU2dmZnFRcG1mNFgzWGJOV0EifQ==,signature:a57713cf97a7d2b89dfe21590bd4b8ca6bb11a08929528381937bdbdc8e037ac/Y8bSgffqQpmf4X3XbNWA",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA1OSwiaGFuZGxlIjoiRHBHeFFmc0JSTzJiSlFVWEhjU0wifQ==,signature:7bf860b65cb0547da0bb912905a1cdc6dd98af21c3e44534a05f4c966affa073/DpGxQfsBRO2bJQUXHcSL"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683497_1.jpg",
+          "../work/display_case_all_images/20683497_2.jpg",
+          "../work/display_case_all_images/20683497_3.jpg",
+          "../work/display_case_all_images/20683497_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": {
+        "id": "20683549",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F442",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:06 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F442",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683549",
+        "photoLink": "https://us.trailapp.com/trail/450/2026-07-02#/task/20683549/file/njcFUo1BRuqqjbT7qITu",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzY1OSwiaGFuZGxlIjoibmpjRlVvMUJSdXFxamJUN3FJVHUifQ==,signature:2c1fd80d81267205c0db774ecbdebed72746f45ffa0bca46ecc338a8b1ffcaef/njcFUo1BRuqqjbT7qITu",
+        "photoCount": 1
+      }
+    },
+    {
+      "site": "krg018F443",
+      "display": {
+        "id": "20684034",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F443",
+        "status": "Completed early",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:03 AM",
+        "timing": "an hour and 56 minutes early",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F443",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20684034",
+        "photoLink": "https://us.trailapp.com/trail/491/2026-07-02#/task/20684034/file/zyWpNi8SHuGsQm17GnPQ",
+        "imageUrl": "../work/display_case_all_images/20684034_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA2MCwiaGFuZGxlIjoienlXcE5pOFNIdUdzUW0xN0duUFEifQ==,signature:ac1c864a66d2dceac715b087ae98cb3a497b161c2c7f5195d5622aae669c9ee9/zyWpNi8SHuGsQm17GnPQ",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA2MSwiaGFuZGxlIjoiRGtzTUhlWWVRZnllTjBreTl1ancifQ==,signature:ec1fc8be7a51abc1dedcc0c38c31d1af23ad82cbfc42c4b1b0db19c3d2a37569/DksMHeYeQfyeN0ky9ujw",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA2MSwiaGFuZGxlIjoibnlaUkVldHBUZDZ4V3RnakNUSXUifQ==,signature:172d2606002b6deba3e6c0e2f3fe4fb91e9e2d922f79bcb358a6bae24ffd1c94/nyZREetpTd6xWtgjCTIu",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA2MSwiaGFuZGxlIjoiM29BVGJhTFM4VzNmZzZxYlVFcUEifQ==,signature:3f2b8ce1977ce95e6d89a3dcb79fa820abfd10cbf646ea6d4baaca449cf8857a/3oATbaLS8W3fg6qbUEqA"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20684034_1.jpg",
+          "../work/display_case_all_images/20684034_2.jpg",
+          "../work/display_case_all_images/20684034_3.jpg",
+          "../work/display_case_all_images/20684034_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": {
+        "id": "20684083",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F443",
+        "status": "Completed early",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:58 AM",
+        "timing": "2 hours and a minute early",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F443",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20684083",
+        "photoLink": "https://us.trailapp.com/trail/491/2026-07-02#/task/20684083/file/WR9OQL0cRA6DoQdHDehr",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzY2NiwiaGFuZGxlIjoiV1I5T1FMMGNSQTZEb1FkSERlaHIifQ==,signature:0528974d03b940065a7f679aea218262f2a2e951b5b6126a787eb764942e2aa0/WR9OQL0cRA6DoQdHDehr",
+        "photoCount": 1
+      }
+    },
+    {
+      "site": "krg018F444",
+      "display": {
+        "id": "20683885",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F444",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:27 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 2,
+        "exceptions": 1,
+        "completedBy": "krg018F444",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683885",
+        "photoLink": "https://us.trailapp.com/trail/481/2026-07-02#/task/20683885/file/OGBBopVsTnqCo4teZ7mT",
+        "imageUrl": "../work/display_case_all_images/20683885_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE4MiwiaGFuZGxlIjoiT0dCQm9wVnNUbnFDbzR0ZVo3bVQifQ==,signature:66e02a8c258cd27a321a275a9f798da0e9ee2353bbd86758f3fc468b4d6c2968/OGBBopVsTnqCo4teZ7mT",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE4MywiaGFuZGxlIjoiOWVxNjU2NVJueVV1RXBWWXFadHcifQ==,signature:cc2958d6877538b558fae99062019cd9e57a7b54e510213a5f968ba81e360ee7/9eq6565RnyUuEpVYqZtw"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683885_1.jpg",
+          "../work/display_case_all_images/20683885_2.jpg"
+        ],
+        "loadedPhotoCount": 2,
+        "actualPhotoCount": 2
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F447",
+      "display": {
+        "id": "20683342",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F447",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:09 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F447",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683342",
+        "photoLink": "https://us.trailapp.com/trail/439/2026-07-02#/task/20683342/file/bwHW2GSPSm6CbgXXM1cD",
+        "imageUrl": "../work/display_case_all_images/20683342_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE4OCwiaGFuZGxlIjoiYndIVzJHU1BTbTZDYmdYWE0xY0QifQ==,signature:d9aa88b1438d6076237d4c1d0ce2abd9ac98d971621f85f29074ba0234abadd2/bwHW2GSPSm6CbgXXM1cD",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE4OCwiaGFuZGxlIjoid2hka2hkSXZUcHFBV0JJVEV0QjYifQ==,signature:63c6ffbbf38eea5378ae57539d6995c96d5fb7be204e844151927312b92ce871/whdkhdIvTpqAWBITEtB6",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE4OCwiaGFuZGxlIjoiQXhSUEc0TUxSQzZzQ0FEeTlWWnUifQ==,signature:3b3eaf28af37c4ca38d82a4b6cae8f5f7be3ffb3d2091c71065fad11dd62eef6/AxRPG4MLRC6sCADy9VZu",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE4OCwiaGFuZGxlIjoiSWdaTmY1R1RZR1VOZGwzMGZZbmIifQ==,signature:aceec269e0a5073af2542de19c30e5f8d3d6fc1a7b0ed43f34edd59736f94287/IgZNf5GTYGUNdl30fYnb"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683342_1.jpg",
+          "../work/display_case_all_images/20683342_2.jpg",
+          "../work/display_case_all_images/20683342_3.jpg",
+          "../work/display_case_all_images/20683342_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F448",
+      "display": {
+        "id": "20683269",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F448",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683269",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683269",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F449",
+      "display": {
+        "id": "20684067",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F449",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:21 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F449",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20684067",
+        "photoLink": "https://us.trailapp.com/trail/494/2026-07-02#/task/20684067/file/9IgWEE0iS3eiDGJh10h6",
+        "imageUrl": "../work/display_case_all_images/20684067_1.jpg",
+        "photoCount": 3,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA2NiwiaGFuZGxlIjoiOUlnV0VFMGlTM2VpREdKaDEwaDYifQ==,signature:d4a862a884be42f66c51366c3a42b26bc40f575e4f68321a36a3d9b3ee6de098/9IgWEE0iS3eiDGJh10h6",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA2NiwiaGFuZGxlIjoieE1RWHVESkdUYm1yalJlanVRdXMifQ==,signature:fd304b462705d1fe0641fde24be69eff6c0f6ce3adad94ac9c506e0b97a08c3c/xMQXuDJGTbmrjRejuQus",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA2NiwiaGFuZGxlIjoiNFJER0ZMVVRXU204MGJNQlpYOXcifQ==,signature:f8be15fe3d978d69dccbcae73453302e9a84dbe6a71e2a767ed1ac9db0881858/4RDGFLUTWSm80bMBZX9w"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20684067_1.jpg",
+          "../work/display_case_all_images/20684067_2.jpg",
+          "../work/display_case_all_images/20684067_3.jpg"
+        ],
+        "loadedPhotoCount": 3,
+        "actualPhotoCount": 3
+      },
+      "bunker": {
+        "id": "20684117",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F449",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:19 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F449",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20684117",
+        "photoLink": "https://us.trailapp.com/trail/494/2026-07-02#/task/20684117/file/Ztz0iGDSzuMiveRYSIaA",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzY4MCwiaGFuZGxlIjoiWnR6MGlHRFN6dU1pdmVSWVNJYUEifQ==,signature:4cf12b1d9b4b00ee3d1ec0f11e8fb68e8b0d39cac17b5a921bd588a1bd9523e2/Ztz0iGDSzuMiveRYSIaA",
+        "photoCount": 1
+      }
+    },
+    {
+      "site": "krg018F455",
+      "display": {
+        "id": "20683948",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F455",
+        "status": "Completed early",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 10:11 AM",
+        "timing": "an hour early",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F455@snowfruitfranchisee.com",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683948",
+        "photoLink": "https://us.trailapp.com/trail/485/2026-07-02#/task/20683948/file/bEQ894SWSdacEvgKU7E7",
+        "imageUrl": "../work/display_case_all_images/20683948_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA2OCwiaGFuZGxlIjoiYkVRODk0U1dTZGFjRXZnS1U3RTcifQ==,signature:af0498ed3f3057bcb2457bc46972929bf7cc2ece0c6720a5fb2638e6fb46008a/bEQ894SWSdacEvgKU7E7",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA2OCwiaGFuZGxlIjoiTTlyNG1QTVlTZ1M2Qk1QMUgycVMifQ==,signature:37fea5b14dd6fa67702968385890556d7e25df4a58d923e47585734d353b385d/M9r4mPMYSgS6BMP1H2qS",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA2OCwiaGFuZGxlIjoiWjhoaVQ5NFRZYXdPcVBUYmpGckEifQ==,signature:ed00f19fef5964a0022defb2cac774ffadd1b21d5a3125862273a69121223e44/Z8hiT94TYawOqPTbjFrA",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA2OCwiaGFuZGxlIjoiTUgzSlRxRDZRWlNENlZOYXh0VlIifQ==,signature:bedda64e3b24e416e18e0aa70764080d2d82a76fc571823e5a4da7b0c8f6674c/MH3JTqD6QZSD6VNaxtVR"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683948_1.jpg",
+          "../work/display_case_all_images/20683948_2.jpg",
+          "../work/display_case_all_images/20683948_3.jpg",
+          "../work/display_case_all_images/20683948_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F456",
+      "display": {
+        "id": "20683658",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F456",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 2,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683658",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683658",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F458",
+      "display": {
+        "id": "20683404",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F458",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683404",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683404",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F459",
+      "display": {
+        "id": "20683481",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F459",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:54 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "krg018F459",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683481",
+        "photoLink": "https://us.trailapp.com/trail/449/2026-07-02#/task/20683481/file/pFg1JY6mSdeV1OlvPfeZ",
+        "imageUrl": "../work/display_case_all_images/20683481_1.jpg",
+        "photoCount": 5,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE5MiwiaGFuZGxlIjoicEZnMUpZNm1TZGVWMU9sdlBmZVoifQ==,signature:b387c423d92eaf845486a18256653ba1d55c4390c9563a674e52da4a6db547bc/pFg1JY6mSdeV1OlvPfeZ",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE5NCwiaGFuZGxlIjoiVHlvNjhBYmdSSUtVbVBMUFFlZU8ifQ==,signature:7256f0ec05344d647362542c06a404bda584bec9d2d3e4378506c132d7765aa6/Tyo68AbgRIKUmPLPQeeO",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE5NCwiaGFuZGxlIjoiaUNibGRhNkVSTU1KYUh1WkZXZFQifQ==,signature:61c73279984afef6229cf82a5491f4b744322ea40673aa93c83fd552261720ba/iCblda6ERMMJaHuZFWdT"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683481_1.jpg",
+          "../work/display_case_all_images/20683481_2.jpg",
+          "../work/display_case_all_images/20683481_3.jpg"
+        ],
+        "loadedPhotoCount": 3,
+        "actualPhotoCount": 3
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F463",
+      "display": {
+        "id": "20683301",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F463",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:21 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "krg018F463",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683301",
+        "photoLink": "https://us.trailapp.com/trail/438/2026-07-02#/task/20683301/file/qlNi4iTqRUOTq3MAPY3X",
+        "imageUrl": "../work/display_case_all_images/20683301_1.jpg",
+        "photoCount": 3,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3MSwiaGFuZGxlIjoicWxOaTRpVHFSVU9UcTNNQVBZM1gifQ==,signature:530255b7aeeb86f75633c24408fc8fbe69ad2fe6e3c9e8b29aa1ba649ecb8a21/qlNi4iTqRUOTq3MAPY3X",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3MiwiaGFuZGxlIjoiYjhwTXcwbUNUaFNqalBFYUxDY0EifQ==,signature:78d4a0e915a6dafc4b5b6d74af8e3caf7c5860b94d007da1f0556e706e77412f/b8pMw0mCThSjjPEaLCcA",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3MiwiaGFuZGxlIjoibjZBdDFCNEtRcTZSSnByTVlaa3QifQ==,signature:27db1be5172c47b23429c42a0d404e96c54ba50045fcb75af494e17839e4f8eb/n6At1B4KQq6RJprMYZkt"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683301_1.jpg",
+          "../work/display_case_all_images/20683301_2.jpg",
+          "../work/display_case_all_images/20683301_3.jpg"
+        ],
+        "loadedPhotoCount": 3,
+        "actualPhotoCount": 3
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F465",
+      "display": {
+        "id": "20683876",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F465",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 2,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683876",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683876",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F481",
+      "display": {
+        "id": "20683355",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F481",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683355",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683355",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": {
+        "id": "20683403",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F481",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683403",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683403",
+        "imageUrl": "",
+        "photoCount": 0
+      }
+    },
+    {
+      "site": "krg018F487",
+      "display": {
+        "id": "20683283",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F487",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 2,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683283",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683283",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F492",
+      "display": {
+        "id": "20683598",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F492",
+        "status": "Completed early",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 11:41 AM",
+        "timing": "4 hours and 18 minutes early",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F492",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683598",
+        "photoLink": "https://us.trailapp.com/trail/458/2026-07-02#/task/20683598/file/4z15w63ZT926yADN4DbU",
+        "imageUrl": "../work/display_case_all_images/20683598_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3MywiaGFuZGxlIjoiNHoxNXc2M1pUOTI2eUFETjREYlUifQ==,signature:da73965eeaf4848f9c8a352aff804074cce4d07aa954f1667be60e58180eca69/4z15w63ZT926yADN4DbU",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3NCwiaGFuZGxlIjoiZXJuYXNvZjJTSVNNRUM5TlBzU0sifQ==,signature:b70fab409c63ede23196b1a4c91c50e7b1d5a87016d9723459ddbe3068750e5d/ernasof2SISMEC9NPsSK",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3NCwiaGFuZGxlIjoicXBYTmV0QlhUc3lCdUxCd2VaSlgifQ==,signature:cc895ebbddddd823740c5fa97def0ed10d12a7a4cc3bb7e8bc4f649809b104c8/qpXNetBXTsyBuLBweZJX",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3NCwiaGFuZGxlIjoiOFpUaUp0S2VROUdsNU9XNzhxUUcifQ==,signature:c5c6cce82e55e5cdbd36c87eeb1a7cd3bfbfa239285ec649be054615071c61fe/8ZTiJtKeQ9Gl5OW78qQG"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683598_1.jpg",
+          "../work/display_case_all_images/20683598_2.jpg",
+          "../work/display_case_all_images/20683598_3.jpg",
+          "../work/display_case_all_images/20683598_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F495",
+      "display": {
+        "id": "20683981",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F495",
+        "status": "Completed late",
+        "onTime": "No - late",
+        "completedOrDue": "2026-07-02 9:34 AM",
+        "timing": "35 minutes late",
+        "locationStatus": "Location unknown",
+        "comments": 6,
+        "exceptions": 1,
+        "completedBy": "krg018F495",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683981",
+        "photoLink": "https://us.trailapp.com/trail/486/2026-07-02#/task/20683981/file/BvTOwWRuCTy498frDBng",
+        "imageUrl": "../work/display_case_all_images/20683981_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3NSwiaGFuZGxlIjoiQnZUT3dXUnVDVHk0OThmckRCbmcifQ==,signature:42f0239f9ae508cad87f74496ec26ee12d328fe76b5aaf4e3a4a208bac01e521/BvTOwWRuCTy498frDBng",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3NiwiaGFuZGxlIjoiWVlKY1BIcjBTNDJDQ2N0WmY2eVYifQ==,signature:8f7da4d9d349f0e4776f0ccd8842db9e67be6f1f8bff6d17cf7dad4458873630/YYJcPHr0S42CCctZf6yV",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3NiwiaGFuZGxlIjoiZ05qRXFuNTJTVkNmS01FR3FEbDAifQ==,signature:9dd394042689094829ae812153b35ac8fa171cde8c0537ca513061597b0dd6c0/gNjEqn52SVCfKMEGqDl0",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3NiwiaGFuZGxlIjoiMXpQa0cxQ0tTRzJ1aGxiQndZNjMifQ==,signature:62e3d702faf4b9e869e934b8b31c95088258d5715da25380af1666dbde529e65/1zPkG1CKSG2uhlbBwY63",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3NiwiaGFuZGxlIjoiQ3VpcWNIZlRndGxrMG5GYUVZUWEifQ==,signature:8d4cdaebf58b138bff0b280c402a953119322fd58dbcd8da2d05b384c1603767/CuiqcHfTgtlk0nFaEYQa",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3NiwiaGFuZGxlIjoicG9FSmFtVmdTaHlNaEpjV0JWS1QifQ==,signature:f58647caf0b87eea60c7b062c18a6ae0dd6588424b19b301605b77378cf79a97/poEJamVgShyMhJcWBVKT",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3NiwiaGFuZGxlIjoiaTRxanpsQ1Q5ekNvdFNjVXZSRkEifQ==,signature:6f9670d73c4eb8d8e0430556b6bd64dd737ae758b660224e2a36f33ee9bf72b1/i4qjzlCT9zCotScUvRFA",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3NiwiaGFuZGxlIjoiVndJSVZXRVBRVnlIbkFaa2ZGNm4ifQ==,signature:1000eb9ab781032e73ad84b173c041e8b1e630cb6dd6e777f964aea7e20a9fc2/VwIIVWEPQVyHnAZkfF6n",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3NiwiaGFuZGxlIjoiVEZlbnB1eWdRQ3lUaklqSENsWmMifQ==,signature:3a7f484216cb407c881c2376c944da7fd0fbdf4afbbea939ffe0086d3d20e982/TFenpuygQCyTjIjHClZc",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA3NiwiaGFuZGxlIjoiQVR5YVhRUWhRbVNZeW96TDU5eDAifQ==,signature:99387f0e79be067f00331c9dfac60c3b594a22c11b999e9ef47eec9112aabdc0/ATyaXQQhQmSYyozL59x0"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683981_1.jpg",
+          "../work/display_case_all_images/20683981_2.jpg",
+          "../work/display_case_all_images/20683981_3.jpg",
+          "../work/display_case_all_images/20683981_4.jpg",
+          "../work/display_case_all_images/20683981_5.jpg",
+          "../work/display_case_all_images/20683981_6.jpg",
+          "../work/display_case_all_images/20683981_7.jpg",
+          "../work/display_case_all_images/20683981_8.jpg",
+          "../work/display_case_all_images/20683981_9.jpg",
+          "../work/display_case_all_images/20683981_10.jpg"
+        ],
+        "loadedPhotoCount": 10,
+        "actualPhotoCount": 10
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F526",
+      "display": {
+        "id": "20683917",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F526",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:58 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F526",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683917",
+        "photoLink": "https://us.trailapp.com/trail/484/2026-07-02#/task/20683917/file/gdiHq7bxTt2CoTWtQfJb",
+        "imageUrl": "../work/display_case_all_images/20683917_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE5NiwiaGFuZGxlIjoiZ2RpSHE3YnhUdDJDb1RXdFFmSmIifQ==,signature:0ceb74c99aeacda9fc7fc2ea8187368bebe160957d4118a83d9a1fced8715bce/gdiHq7bxTt2CoTWtQfJb",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE5NywiaGFuZGxlIjoiVDNwaUpOb1ZSY3VFQjBDaklyaWIifQ==,signature:189c6d9e57b4e38504e52f4864e13b61d5d948389862bc5532ef683307ef59b9/T3piJNoVRcuEB0CjIrib",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE5NywiaGFuZGxlIjoib2NRQWY5akxUR21jN0FBVEtpMlAifQ==,signature:d5e81abe599efdd340898b4f9b4c33702a74a492e25bbf6982026ff91a6b0f9e/ocQAf9jLTGmc7AATKi2P",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE5NywiaGFuZGxlIjoiOFA4TnlsNlpUdHk5UGl1U01JMHoifQ==,signature:7c4d324a7f140896b1bbc5271872dcf8608e932b6df55502088185616b5f7dc3/8P8Nyl6ZTty9PiuSMI0z"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683917_1.jpg",
+          "../work/display_case_all_images/20683917_2.jpg",
+          "../work/display_case_all_images/20683917_3.jpg",
+          "../work/display_case_all_images/20683917_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": {
+        "id": "20683964",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F526",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:52 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F526",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683964",
+        "photoLink": "https://us.trailapp.com/trail/484/2026-07-02#/task/20683964/file/IU396woRN6UGaCNYZRNl",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzcwNSwiaGFuZGxlIjoiSVUzOTZ3b1JONlVHYUNOWVpSTmwifQ==,signature:2a9241d5476b536c6c8310548187b877c6f0d8e8fdd543471a2c3c040275288b/IU396woRN6UGaCNYZRNl",
+        "photoCount": 3
+      }
+    },
+    {
+      "site": "krg018F577",
+      "display": {
+        "id": "20683665",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F577",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:57 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "krg018F577",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683665",
+        "photoLink": "https://us.trailapp.com/trail/466/2026-07-02#/task/20683665/file/YIFZk9DS0Ckq1WTzYpp6",
+        "imageUrl": "../work/display_case_all_images/20683665_1.jpg",
+        "photoCount": 8,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIwMCwiaGFuZGxlIjoiWUlGWms5RFMwQ2txMVdUellwcDYifQ==,signature:3ebe7bccbc3d2fde8235c2d8dd9079931b296ea42c3de5814512b4e8781f9716/YIFZk9DS0Ckq1WTzYpp6",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIwMSwiaGFuZGxlIjoiMnJiN080YzBRYXV2NWI0UVpOeWEifQ==,signature:c0e391c7a4fb0281f432e168e696457f1dae9c397a144aa012e8a315955f871c/2rb7O4c0Qauv5b4QZNya",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIwMSwiaGFuZGxlIjoiZWwwbWJtdTJURHVHS1JqN3Y1VUQifQ==,signature:f0e943f8d28664b188de27563cb3b11c9a160d9e2befc14e6fd0bfe8af8d09e1/el0mbmu2TDuGKRj7v5UD"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683665_1.jpg",
+          "../work/display_case_all_images/20683665_2.jpg",
+          "../work/display_case_all_images/20683665_3.jpg"
+        ],
+        "loadedPhotoCount": 3,
+        "actualPhotoCount": 3
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F578",
+      "display": {
+        "id": "20683708",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F578",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:05 AM",
+        "timing": "",
+        "locationStatus": "Inside designated location",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F578",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683708",
+        "photoLink": "https://us.trailapp.com/trail/467/2026-07-02#/task/20683708/file/SfUVteTSYOfayrGTzzRo",
+        "imageUrl": "../work/display_case_all_images/20683708_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIwNCwiaGFuZGxlIjoiU2ZVVnRlVFNZT2ZheXJHVHp6Um8ifQ==,signature:2e8b7c2de706c7af94f99dc8057a599762f134b436b1356dd8c2fe775b8f7545/SfUVteTSYOfayrGTzzRo",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIwNSwiaGFuZGxlIjoia05nV3E2dEpSaEd1RmJrZ3lIU1kifQ==,signature:975f029b03b1134f6205e1aca690bc432a3a5208b27ab0602f2a24d6f00baf21/kNgWq6tJRhGuFbkgyHSY",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIwNSwiaGFuZGxlIjoiRGlxbkUyNlVTbWUzNkZXNGsyTUsifQ==,signature:801401f502211b9c94c9d9689a206d8d55b8534f191bfc9d48ef64890d0b1ebf/DiqnE26USme36FW4k2MK",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIwNSwiaGFuZGxlIjoiWHFsajZrSFRiU3V2Szl4b0REZlEifQ==,signature:6e274479aa365ec197a161fa82cea3b8abfee55905a7800b396ede9f59ecb92f/Xqlj6kHTbSuvK9xoDDfQ"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683708_1.jpg",
+          "../work/display_case_all_images/20683708_2.jpg",
+          "../work/display_case_all_images/20683708_3.jpg",
+          "../work/display_case_all_images/20683708_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F605",
+      "display": {
+        "id": "20714090",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F605",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 7:38 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F605",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20714090",
+        "photoLink": "https://us.trailapp.com/trail/2801/2026-07-02#/task/20714090/file/AhziZopkQlq54ihmtnhQ",
+        "imageUrl": "../work/display_case_all_images/20714090_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIwOCwiaGFuZGxlIjoiQWh6aVpvcGtRbHE1NGlobXRuaFEifQ==,signature:9ec5086542edff987f29539769855c5c9131b4935c7dc85a2dacca4bef68cae1/AhziZopkQlq54ihmtnhQ",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIwOSwiaGFuZGxlIjoiOGN3UnBsYWRTY1NaUkxCMm9BZ2oifQ==,signature:8a72ca67f0b7bf924d1c5f142e2fb9b16af3997a4a6616b9884ed2f1bcb191d5/8cwRpladScSZRLB2oAgj",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIwOSwiaGFuZGxlIjoiTTlONmVtclN3eXpROGZJNGxHeWsifQ==,signature:99544c323f908f3e64d600c32ad9f7648c3b8d277176accf8a8534ebc6807841/M9N6emrSwyzQ8fI4lGyk",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIwOSwiaGFuZGxlIjoiV2htY2g0VUxTUWlZRGVWYk40YlEifQ==,signature:2bf742a2244b130a8e3274c36b662f961900adbfdd58fc73c71523a5c1c394f5/Whmch4ULSQiYDeVbN4bQ"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20714090_1.jpg",
+          "../work/display_case_all_images/20714090_2.jpg",
+          "../work/display_case_all_images/20714090_3.jpg",
+          "../work/display_case_all_images/20714090_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F615",
+      "display": {
+        "id": "20683750",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F615",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:54 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F615",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683750",
+        "photoLink": "https://us.trailapp.com/trail/471/2026-07-02#/task/20683750/file/8sV4orXMQ6zpsHTj9swH",
+        "imageUrl": "../work/display_case_all_images/20683750_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA4NSwiaGFuZGxlIjoiOHNWNG9yWE1RNnpwc0hUajlzd0gifQ==,signature:f77b09f1515222b12d55c0a3e8d17d45a729fe6b428ecec4bca613fa6d7b27c2/8sV4orXMQ6zpsHTj9swH",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA4NiwiaGFuZGxlIjoidXRwQkVsdDBSTDJrUE9xd01wVlgifQ==,signature:7e252a407b78aefe58eb0c1805854a3e34645f609cf2a935a224379ddce29b6c/utpBElt0RL2kPOqwMpVX",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA4NiwiaGFuZGxlIjoiNE9ZejhwVTJScUdMS2x0UUNIb3cifQ==,signature:aeb39d50bd127775d9609b534438fb3dd9cdae3cf661ab0d6b481b59aac67783/4OYz8pU2RqGLKltQCHow",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA4NiwiaGFuZGxlIjoiSTkxSlVVUVZXMmJLWlB6MmNFVXcifQ==,signature:ee9944de6680b16bbb3f970794fafc30fb61a690dbcb836be6bd06eff0c3c751/I91JUUQVW2bKZPz2cEUw"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683750_1.jpg",
+          "../work/display_case_all_images/20683750_2.jpg",
+          "../work/display_case_all_images/20683750_3.jpg",
+          "../work/display_case_all_images/20683750_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": {
+        "id": "20683802",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F615",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:53 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F615",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683802",
+        "photoLink": "https://us.trailapp.com/trail/471/2026-07-02#/task/20683802/file/DMWF5I77SMbvvNu4G9ye",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzcyNywiaGFuZGxlIjoiRE1XRjVJNzdTTWJ2dk51NEc5eWUifQ==,signature:871c7d52ddc5f8305bacc989448bb036505a6d766f07d72d7811819b419a7aa3/DMWF5I77SMbvvNu4G9ye",
+        "photoCount": 1
+      }
+    },
+    {
+      "site": "krg018F618",
+      "display": {
+        "id": "20683657",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F618",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:49 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "krg018F618",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683657",
+        "photoLink": "https://us.trailapp.com/trail/465/2026-07-02#/task/20683657/file/FTLGievSQq7MDb7Ir3OQ",
+        "imageUrl": "../work/display_case_all_images/20683657_1.jpg",
+        "photoCount": 3,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA4NywiaGFuZGxlIjoiRlRMR2lldlNRcTdNRGI3SXIzT1EifQ==,signature:b09f333640ccb80b66ebfc068e305afffa3887d50bd99e28872140901edc6144/FTLGievSQq7MDb7Ir3OQ",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA4OCwiaGFuZGxlIjoiblhjc2hIVUJUVnVQWnRRcmU4ekEifQ==,signature:c00cb34e8d053d1260994b8fb3b9b9f907d8bb4703242e4ea074c51c694ae27d/nXcshHUBTVuPZtQre8zA",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA4OCwiaGFuZGxlIjoiVDFZa21OMGJUdldabzRyTlJiZkkifQ==,signature:623bfdcfd22f94d2ebcf70add702f774e454b0f9b91637d9ce5f3ca34298ca0b/T1YkmN0bTvWZo4rNRbfI"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683657_1.jpg",
+          "../work/display_case_all_images/20683657_2.jpg",
+          "../work/display_case_all_images/20683657_3.jpg"
+        ],
+        "loadedPhotoCount": 3,
+        "actualPhotoCount": 3
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F620",
+      "display": {
+        "id": "20683597",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F620",
+        "status": "Completed early",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 10:19 AM",
+        "timing": "41 minutes early",
+        "locationStatus": "Inside designated location",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F620",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683597",
+        "photoLink": "https://us.trailapp.com/trail/459/2026-07-02#/task/20683597/file/rTcTVXfXTtqaBawSwMIQ",
+        "imageUrl": "../work/display_case_all_images/20683597_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA4OSwiaGFuZGxlIjoiclRjVFZYZlhUdHFhQmF3U3dNSVEifQ==,signature:3e3ff137a289ab169e53529d5cf106e2bb3cb7f07b68989cfc373065b12f4c49/rTcTVXfXTtqaBawSwMIQ",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA5MCwiaGFuZGxlIjoiWE4xbXpZOFFRQUt2MEhrS2lWTmIifQ==,signature:25574e95d8b4af043591dae2f46f87045d523b68a3a97c0cacaf755da75b4050/XN1mzY8QQAKv0HkKiVNb",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA5MCwiaGFuZGxlIjoibjMzUHA2SHRUcU82NUw0ZnNjZEQifQ==,signature:ff5c4c8eb2b02fd8053100ca6d3dde873a5c5fdcbf1d81e6168380aa668009fb/n33Pp6HtTqO65L4fscdD",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA5MCwiaGFuZGxlIjoiSWxLU3JHY09TWDRlQ3k4OFZ5WG0ifQ==,signature:024ccf5cc34a69f74c8d462bdf05691b80da121eb5a25bdb52270299c33b6606/IlKSrGcOSX4eCy88VyXm"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683597_1.jpg",
+          "../work/display_case_all_images/20683597_2.jpg",
+          "../work/display_case_all_images/20683597_3.jpg",
+          "../work/display_case_all_images/20683597_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F622",
+      "display": {
+        "id": "20683984",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F622",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:39 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F622",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683984",
+        "photoLink": "https://us.trailapp.com/trail/487/2026-07-02#/task/20683984/file/p4gLQuFTTNAaZshTUCtK",
+        "imageUrl": "../work/display_case_all_images/20683984_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIxMiwiaGFuZGxlIjoicDRnTFF1RlRUTkFhWnNoVFVDdEsifQ==,signature:ee3301a8a543092df79de262db548d008e38f3bcac6a9b23d92c0bd219021f09/p4gLQuFTTNAaZshTUCtK",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIxMiwiaGFuZGxlIjoiVjlmSXZDVWNTeU1ObGVWUXgzbXcifQ==,signature:988aa08afeb84699014a6a9c8a151f795f055a36fe09b86eee6156a0071a000d/V9fIvCUcSyMNleVQx3mw",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIxMiwiaGFuZGxlIjoiOHczS0RocTBRaHlKdTI4cnIzWE4ifQ==,signature:fd96a9e8fd73c8a6af9b53c2cc2e1b10b6568d8303132c6f113e4a83de2bfc77/8w3KDhq0QhyJu28rr3XN",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIxMiwiaGFuZGxlIjoiM0x0dGoyeFJrbVZoa3ZFTVl5dzAifQ==,signature:6b67032bde398f3938bb5f462521dc517adac2dd60403206a39ba2419da6b138/3Lttj2xRkmVhkvEMYyw0",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIxMiwiaGFuZGxlIjoiVWM1NkJlb1NqMnhReURzUEJzUHMifQ==,signature:b1bf0a3c0b226158d4169533a0481dcc2fe311d3b040b0608cd4f85c5afb91c7/Uc56BeoSj2xQyDsPBsPs"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683984_1.jpg",
+          "../work/display_case_all_images/20683984_2.jpg",
+          "../work/display_case_all_images/20683984_3.jpg",
+          "../work/display_case_all_images/20683984_4.jpg",
+          "../work/display_case_all_images/20683984_5.jpg"
+        ],
+        "loadedPhotoCount": 5,
+        "actualPhotoCount": 5
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F637",
+      "display": {
+        "id": "20683536",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F637",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:26 AM",
+        "timing": "",
+        "locationStatus": "Inside designated location",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F637",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683536",
+        "photoLink": "https://us.trailapp.com/trail/456/2026-07-02#/task/20683536/file/mPlYIwbwSKSEfyL1lsyn",
+        "imageUrl": "../work/display_case_all_images/20683536_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIxNiwiaGFuZGxlIjoibVBsWUl3YndTS1NFZnlMMWxzeW4ifQ==,signature:56d6dec090a328c3f658c2b3b2a909b2579e7690d7b20182dcbd408be033857b/mPlYIwbwSKSEfyL1lsyn",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIxNywiaGFuZGxlIjoiOTBicjdvaU1UUEdlSXVYMExmZFEifQ==,signature:0ae572b881afdf400c1e0de93fd22c73bd76a6ff8f39c65041141924ddc35799/90br7oiMTPGeIuX0LfdQ",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIxNywiaGFuZGxlIjoiS3g0VEJ6aE1SN0c1NE1hVWJMSjUifQ==,signature:bec0c645981ec7625146621e39a7be520db98ed30d70d961329b481089360b67/Kx4TBzhMR7G54MaUbLJ5",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIxNywiaGFuZGxlIjoiaVg0Z1ZWeGpUQU92SWs0Y21zaXQifQ==,signature:ec2458517155c350b33d5ec8c8ea1304f3bb51d355c286dccce7e3804a9440a9/iX4gVVxjTAOvIk4cmsit"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683536_1.jpg",
+          "../work/display_case_all_images/20683536_2.jpg",
+          "../work/display_case_all_images/20683536_3.jpg",
+          "../work/display_case_all_images/20683536_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F638",
+      "display": {
+        "id": "20683906",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F638",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:50 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "krg018F638",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683906",
+        "photoLink": "https://us.trailapp.com/trail/483/2026-07-02#/task/20683906/file/ry84okrTXOyO7f7xKBtv",
+        "imageUrl": "../work/display_case_all_images/20683906_1.jpg",
+        "photoCount": 5,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIyMCwiaGFuZGxlIjoicnk4NG9rclRYT3lPN2Y3eEtCdHYifQ==,signature:1ff32f60fb8e5a2769501a952b97c6cf7a329b73636d206005d4f9c93262b916/ry84okrTXOyO7f7xKBtv",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIyMSwiaGFuZGxlIjoiQ25senVkSzlTd2NBSUowbVl0TlEifQ==,signature:85962988cee223081e58e80f158058482ad33e50fdc681174c67d2a471608124/CnlzudK9SwcAIJ0mYtNQ",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIyMSwiaGFuZGxlIjoiUFZKZURuR0JRM09mQnhaNHlqQW0ifQ==,signature:789eaef1cb2e99b20ecba24471ee612fb16d10d582d8472cf4957fd2b2f0ca80/PVJeDnGBQ3OfBxZ4yjAm",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIyMCwiaGFuZGxlIjoieVEzNVB2bFRXQ0tGcDNPTkRSdzMifQ==,signature:4cc6f2b078954250aa3c892e1f13403b4c9127c923fd23b713d430af0bfa5e14/yQ35PvlTWCKFp3ONDRw3"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683906_1.jpg",
+          "../work/display_case_all_images/20683906_2.jpg",
+          "../work/display_case_all_images/20683906_3.jpg",
+          "../work/display_case_all_images/20683906_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": {
+        "id": "20683953",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F638",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:50 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F638",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683953",
+        "photoLink": "https://us.trailapp.com/trail/483/2026-07-02#/task/20683953/file/sNGbirCZRhyWAEVAJPSQ",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzc0OCwiaGFuZGxlIjoic05HYmlyQ1pSaHlXQUVWQUpQU1EifQ==,signature:6e98a10f6fbdb01ef48a5e83a93ce16b93912127778249d24ca986f109fff8b7/sNGbirCZRhyWAEVAJPSQ",
+        "photoCount": 3
+      }
+    },
+    {
+      "site": "krg018F649",
+      "display": {
+        "id": "20683533",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F649",
+        "status": "Completed early",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:59 AM",
+        "timing": "an hour early",
+        "locationStatus": "Location unknown",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "krg018F649",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683533",
+        "photoLink": "https://us.trailapp.com/trail/455/2026-07-02#/task/20683533/file/bhoYxQsnSI4ZqiMhRaEO",
+        "imageUrl": "../work/display_case_all_images/20683533_1.jpg",
+        "photoCount": 3,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA5NywiaGFuZGxlIjoiYmhvWXhRc25TSTRacWlNaFJhRU8ifQ==,signature:59a3a3edba35b2cf8163595ce17dd3c0f36824c13df51bde3d9a53bc784ea169/bhoYxQsnSI4ZqiMhRaEO",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA5NywiaGFuZGxlIjoiSGdtbUhPVVRRS0tzQndmSjhLWVEifQ==,signature:bf604afbf752a071cf74843d067158d9f8a3944ad17c8981cad954ed6e22309a/HgmmHOUTQKKsBwfJ8KYQ",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA5NywiaGFuZGxlIjoiMGozT3NqYTBUWHVtcHpza3k4SkQifQ==,signature:b423687c04da9fd06c8f70a9115ccdfa1d6ef2d7e7f145a7417ce07ffd6579f5/0j3Osja0TXumpzsky8JD"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683533_1.jpg",
+          "../work/display_case_all_images/20683533_2.jpg",
+          "../work/display_case_all_images/20683533_3.jpg"
+        ],
+        "loadedPhotoCount": 3,
+        "actualPhotoCount": 3
+      },
+      "bunker": {
+        "id": "20683580",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F649",
+        "status": "Completed early",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:58 AM",
+        "timing": "an hour and a minute early",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F649",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683580",
+        "photoLink": "https://us.trailapp.com/trail/455/2026-07-02#/task/20683580/file/ZjQGs7pOTjCdVfGQDbvq",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzc1NSwiaGFuZGxlIjoiWmpRR3M3cE9UakNkVmZHUURidnEifQ==,signature:aacd18c538d3a0d456f6bb0f42857a9bfe089cb1fb9ac5692cc852b7c8981789/ZjQGs7pOTjCdVfGQDbvq",
+        "photoCount": 1
+      }
+    },
+    {
+      "site": "krg018F650",
+      "display": {
+        "id": "20683538",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F650",
+        "status": "Completed late",
+        "onTime": "No - late",
+        "completedOrDue": "2026-07-02 9:38 AM",
+        "timing": "38 minutes late",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F650",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683538",
+        "photoLink": "https://us.trailapp.com/trail/457/2026-07-02#/task/20683538/file/yPBmkxfERfW4dBjM9Vru",
+        "imageUrl": "../work/display_case_all_images/20683538_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA5OSwiaGFuZGxlIjoieVBCbWt4ZkVSZlc0ZEJqTTlWcnUifQ==,signature:c97206b4d4e13be3a044a284c7f687a81cea9b377b8fe69969dda7b44aea70a9/yPBmkxfERfW4dBjM9Vru",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA5OSwiaGFuZGxlIjoiYk5CVXpoaVFTbTZVVGpxY05RVWIifQ==,signature:9a57b90626bc86834ee13455d24f75b0c92b74f442e0036241b67b4926ca98b4/bNBUzhiQSm6UTjqcNQUb",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA5OSwiaGFuZGxlIjoiQkN0c2hUWVJUblNOUHhxYXB6clkifQ==,signature:4b60d99ddc72cc4976a5e3d78e1de0414f446bd3a9146191b73df50ffb666cfc/BCtshTYRTnSNPxqapzrY",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA5OSwiaGFuZGxlIjoid2FYbFdEbVVSUDJzUENnWlI3UWkifQ==,signature:af5e966cccd5ca276398fc6d3154182c1d0fb20f40f67b69bac9589a91bc158d/waXlWDmURP2sPCgZR7Qi",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA5OSwiaGFuZGxlIjoiRm13N1Q3S3ZSSWFINGVNNjI1cmkifQ==,signature:b21351b8350e9fa6d2c556dc9fc762bb4cd5ea3375e57e5632f70ab5307ee427/Fmw7T7KvRIaH4eM625ri",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA5OSwiaGFuZGxlIjoibXBucUxjMEJSUldxMDlzVGlVUEsifQ==,signature:3ebcffdacb33917fcbbf9bfc42e6cc703be9244684a2cbea6ed3183ccddada48/mpnqLc0BRRWq09sTiUPK",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjA5OSwiaGFuZGxlIjoiVTZKbnNTQUZTYVdZSE9wMGp0Z08ifQ==,signature:7dcbdb0c8e66fb2a3267d9be40371e715ee0026fbfdd04a360c2c4cf5b00dfc1/U6JnsSAFSaWYHOp0jtgO"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683538_1.jpg",
+          "../work/display_case_all_images/20683538_2.jpg",
+          "../work/display_case_all_images/20683538_3.jpg",
+          "../work/display_case_all_images/20683538_4.jpg",
+          "../work/display_case_all_images/20683538_5.jpg",
+          "../work/display_case_all_images/20683538_6.jpg",
+          "../work/display_case_all_images/20683538_7.jpg"
+        ],
+        "loadedPhotoCount": 7,
+        "actualPhotoCount": 7
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F663",
+      "display": {
+        "id": "20683989",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F663",
+        "status": "Completed early",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:30 AM",
+        "timing": "an hour and 29 minutes early",
+        "locationStatus": "Inside designated location",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F663",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683989",
+        "photoLink": "https://us.trailapp.com/trail/488/2026-07-02#/task/20683989/file/TLILZ4BETVIVrxERIxTl",
+        "imageUrl": "../work/display_case_all_images/20683989_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEwMSwiaGFuZGxlIjoiVExJTFo0QkVUVklWcnhFUkl4VGwifQ==,signature:6571bd3252c431a1e90fa5e3e7a3955af36a266cccfe5a213ae64876c9146392/TLILZ4BETVIVrxERIxTl",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEwMSwiaGFuZGxlIjoiNU1yTW5UWE9UNGVYZVY2MWw4SmYifQ==,signature:bc12a2435673b749d4aebe76a220557128306ea5dea07c433e583897a21d66f0/5MrMnTXOT4eXeV61l8Jf",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEwMSwiaGFuZGxlIjoiY2sxU0ZtekhRQUs5d012UnhFTHMifQ==,signature:fcae35e24fde2b036c749e74e849ab391287b6f76e29ad0e16d93017144b2040/ck1SFmzHQAK9wMvRxELs",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEwMSwiaGFuZGxlIjoiTmZxNmY1dlRRWkdUSVMxTkliNnQifQ==,signature:4d9c8f353098ebe93fad861501008f2107cce96a271793979e8bd8ef26a845f9/Nfq6f5vTQZGTIS1NIb6t"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683989_1.jpg",
+          "../work/display_case_all_images/20683989_2.jpg",
+          "../work/display_case_all_images/20683989_3.jpg",
+          "../work/display_case_all_images/20683989_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F670",
+      "display": {
+        "id": "20683419",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F670",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:57 AM",
+        "timing": "",
+        "locationStatus": "Inside designated location",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "krg018F670",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683419",
+        "photoLink": "https://us.trailapp.com/trail/447/2026-07-02#/task/20683419/file/p6hp9doxT8ag0ANSjtSb",
+        "imageUrl": "../work/display_case_all_images/20683419_1.jpg",
+        "photoCount": 5,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIyNCwiaGFuZGxlIjoicDZocDlkb3hUOGFnMEFOU2p0U2IifQ==,signature:a4f0e3e5b7e59cf40ba3273da5da54ee0cce2e7d738ee8d5e05fbff43d26e338/p6hp9doxT8ag0ANSjtSb",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIyNSwiaGFuZGxlIjoieVlPVFZKdElTU2UwOHZtYk9WQ0EifQ==,signature:fd6944f4cda763111116b116320da5fc89ba4e0d05b41a0fcb8d1a78bc5a8a90/yYOTVJtISSe08vmbOVCA",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIyNSwiaGFuZGxlIjoiRENRN3U2T25TcWF1T09xYk16QUQifQ==,signature:2c7e4d5d36a94f360fa99084424121b5cc310d694f2d98f9cfc24cecd1ee8e56/DCQ7u6OnSqauOOqbMzAD"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683419_1.jpg",
+          "../work/display_case_all_images/20683419_2.jpg",
+          "../work/display_case_all_images/20683419_3.jpg"
+        ],
+        "loadedPhotoCount": 3,
+        "actualPhotoCount": 3
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F671",
+      "display": {
+        "id": "20683397",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F671",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:55 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F671",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683397",
+        "photoLink": "https://us.trailapp.com/trail/443/2026-07-02#/task/20683397/file/gxN75frdSE6FklCjSNKZ",
+        "imageUrl": "../work/display_case_all_images/20683397_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIyOCwiaGFuZGxlIjoiZ3hONzVmcmRTRTZGa2xDalNOS1oifQ==,signature:bca42870e8e78d50af867b8932f267e56c11e6bcd2dae58490fce418e2ce0919/gxN75frdSE6FklCjSNKZ",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIyOSwiaGFuZGxlIjoiak9oYUdybVJJdWFjM0dZaVBOQWcifQ==,signature:e929809ce189ea92ca4a15d401dc7f214fa458904d246b68055aaded9d57038e/jOhaGrmRIuac3GYiPNAg",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIyOSwiaGFuZGxlIjoiNnd2MDNZZGRUVWlrYTZvREFsbncifQ==,signature:34d9e001cb4fb8a917333b48e046feb15d95742b1d9a4dc309ca0f3c7116c053/6wv03YddTUika6oDAlnw",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIyOSwiaGFuZGxlIjoibDBlRHk5Y1FTeEtXOEV0dml3dGEifQ==,signature:cc48229139deba1e10a6b9d0d9a96bc69e81e9fdfd310f80c21624d6ac9c578b/l0eDy9cQSxKW8Etviwta"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683397_1.jpg",
+          "../work/display_case_all_images/20683397_2.jpg",
+          "../work/display_case_all_images/20683397_3.jpg",
+          "../work/display_case_all_images/20683397_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": {
+        "id": "20683447",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F671",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:58 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F671",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683447",
+        "photoLink": "https://us.trailapp.com/trail/443/2026-07-02#/task/20683447/file/F8j6QxXyRkPeZhlePMrY",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzc3MywiaGFuZGxlIjoiRjhqNlF4WHlSa1BlWmhsZVBNclkifQ==,signature:5c697ec163dbb4f80000decbc5709f35876ed226bc4202af9cfc7be682f3f341/F8j6QxXyRkPeZhlePMrY",
+        "photoCount": 3
+      }
+    },
+    {
+      "site": "krg018F675",
+      "display": {
+        "id": "20683518",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F675",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:45 AM",
+        "timing": "",
+        "locationStatus": "Inside designated location",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F675",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683518",
+        "photoLink": "https://us.trailapp.com/trail/453/2026-07-02#/task/20683518/file/bVCSA7SpR0WqMGExjSat",
+        "imageUrl": "../work/display_case_all_images/20683518_1.jpg",
+        "photoCount": 5,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIzMiwiaGFuZGxlIjoiYlZDU0E3U3BSMFdxTUdFeGpTYXQifQ==,signature:de68a7e500ea315c965ff5e9a91cbbc085cc9ac340ae4ca439c2bd2b42607348/bVCSA7SpR0WqMGExjSat",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIzMiwiaGFuZGxlIjoiaDUxWUJSS1RUMlgza1dFQ2s5UEQifQ==,signature:2f53f6c4ecc9a3ce4786201dfb03b2ac65c5779ac489bc938dc974009a555e49/h51YBRKTT2X3kWECk9PD",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIzMiwiaGFuZGxlIjoiYmExcXVETktSRXVJWlVaZTdqTHQifQ==,signature:98f89a5989746eccaa450be8319ca986323b92251802b64c8413abaae3ba37e2/ba1quDNKREuIZUZe7jLt",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIzMiwiaGFuZGxlIjoiRXZBZFNXRndTekdKU1hlN3E1U2cifQ==,signature:e2bb8cc7191deb5c34897779d3dccea339733149fb5dff0d3ce1ab06adfdde90/EvAdSWFwSzGJSXe7q5Sg"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683518_1.jpg",
+          "../work/display_case_all_images/20683518_2.jpg",
+          "../work/display_case_all_images/20683518_3.jpg",
+          "../work/display_case_all_images/20683518_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F684",
+      "display": {
+        "id": "20684048",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F684",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 1:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 0,
+        "exceptions": 0,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20684048",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20684048",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": {
+        "id": "20684096",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F684",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 1:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 0,
+        "exceptions": 0,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20684096",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20684096",
+        "imageUrl": "",
+        "photoCount": 0
+      }
+    },
+    {
+      "site": "krg018F685",
+      "display": {
+        "id": "20683380",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F685",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:41 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "krg018F685",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683380",
+        "photoLink": "https://us.trailapp.com/trail/441/2026-07-02#/task/20683380/file/z2lie08oSXyBp9xzHvk4",
+        "imageUrl": "../work/display_case_all_images/20683380_1.jpg",
+        "photoCount": 3,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEwOSwiaGFuZGxlIjoiejJsaWUwOG9TWHlCcDl4ekh2azQifQ==,signature:44c1d1b2b9345909edaa07d867bcc2cc0e93287117edb5bdf6433fe74ccb5c13/z2lie08oSXyBp9xzHvk4",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEwOSwiaGFuZGxlIjoibjVSdnZXNVNlbWZvNU5UZGZlM3EifQ==,signature:2c1a703e1b1b3530ed8bb97224160bdacec13939886e07f5141e61dd699e907a/n5RvvW5Semfo5NTdfe3q",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEwOSwiaGFuZGxlIjoia2JUaW95eUtRaU9NZTdVak1RbWIifQ==,signature:d0e21a427bc4aefa199145afadd9f124143dbbf25d3007b75d0e672a4a226fe3/kbTioyyKQiOMe7UjMQmb"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683380_1.jpg",
+          "../work/display_case_all_images/20683380_2.jpg",
+          "../work/display_case_all_images/20683380_3.jpg"
+        ],
+        "loadedPhotoCount": 3,
+        "actualPhotoCount": 3
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F686",
+      "display": {
+        "id": "20683513",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F686",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:30 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 5,
+        "exceptions": 1,
+        "completedBy": "krg018F686",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683513",
+        "photoLink": "https://us.trailapp.com/trail/451/2026-07-02#/task/20683513/file/izwjYg4qQAOuKnCzHeOr",
+        "imageUrl": "../work/display_case_all_images/20683513_1.jpg",
+        "photoCount": 7,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIzNiwiaGFuZGxlIjoiaXp3allnNHFRQU91S25DekhlT3IifQ==,signature:777f20f6c8a981c079d73ceb31d5505e55c4c3eed95c6caec4301f673dccd326/izwjYg4qQAOuKnCzHeOr",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIzNiwiaGFuZGxlIjoiNlZKaUI0MXRTN0cwUklUdm5YRDcifQ==,signature:82a85b274298cf3eccb0d8f7752c52ea6aee0d76101434a9c9d307431791ec20/6VJiB41tS7G0RITvnXD7",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIzNiwiaGFuZGxlIjoibkRFZ1ZndFVSR2U2YVowZFpXRWUifQ==,signature:030fcce638bef0b39c510303836de2de4988626b6c54dfa59024469aa5c9ecff/nDEgVgtURGe6aZ0dZWEe",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIzNiwiaGFuZGxlIjoiREh2OHJ1OWVUTlc1UDJkeWdLR2UifQ==,signature:b431d92c948b28ac8219e7de670de4767fec6ea1d6b36dcff8b7bc239e47f431/DHv8ru9eTNW5P2dygKGe",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjIzNiwiaGFuZGxlIjoiMW0xS2hxNmFTVDJUaXFOdDlpYlIifQ==,signature:8d555321530c3d5f7cf581d0cdbcda8e40f6a9338b2edd6a765c66014adc007b/1m1Khq6aST2TiqNt9ibR"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683513_1.jpg",
+          "../work/display_case_all_images/20683513_2.jpg",
+          "../work/display_case_all_images/20683513_3.jpg",
+          "../work/display_case_all_images/20683513_4.jpg",
+          "../work/display_case_all_images/20683513_5.jpg"
+        ],
+        "loadedPhotoCount": 5,
+        "actualPhotoCount": 5
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F688",
+      "display": {
+        "id": "20683401",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F688",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:50 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 6,
+        "exceptions": 1,
+        "completedBy": "krg018F688",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683401",
+        "photoLink": "https://us.trailapp.com/trail/446/2026-07-02#/task/20683401/file/5DNOnU2dQ32wK8FJtFGG",
+        "imageUrl": "../work/display_case_all_images/20683401_1.jpg",
+        "photoCount": 8,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0MCwiaGFuZGxlIjoiNUROT25VMmRRMzJ3SzhGSnRGR0cifQ==,signature:e1dd17b6e3ff8fa95acdfaf2fd50e7fe8db3921a31763315a4bf99da24b03f8f/5DNOnU2dQ32wK8FJtFGG",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0MSwiaGFuZGxlIjoiZVh3TDRacEdRdVNsZWpaR0laaHoifQ==,signature:8f2539058c356b062f9260e10dda0e82fd749765970b1e45f0f7de1cb291316c/eXwL4ZpGQuSlejZGIZhz",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0MSwiaGFuZGxlIjoiWW5hWlg4b1N4S1Fmb1V5WTFOUXUifQ==,signature:667fb0c795693a306b27fc9344f39b08165df006143e414a877b8b0afc288057/YnaZX8oSxKQfoUyY1NQu",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0MSwiaGFuZGxlIjoicXBuVElxNTZSUjZ0ZnNjc1dGWWgifQ==,signature:4b3535f6905155d8478a2d6e26a7e7e235f2c9bbbb1e868fc08b5c5f6221f5bb/qpnTIq56RR6tfscsWFYh",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0MSwiaGFuZGxlIjoiaFA4ODVxam5SaFNHbUdscGdTYzYifQ==,signature:322be178f229ae05fd4905d3a388962a51480fbdd3ca6bf2666f0a6746241de7/hP885qjnRhSGmGlpgSc6",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0MSwiaGFuZGxlIjoiN0ZzelVIa2lSaDZVeDd0SXdxVjUifQ==,signature:99d596f79012b5036e1f2c7ce55d565cf36a7f184b63656c78f945405b9f32e5/7FszUHkiRh6Ux7tIwqV5"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683401_1.jpg",
+          "../work/display_case_all_images/20683401_2.jpg",
+          "../work/display_case_all_images/20683401_3.jpg",
+          "../work/display_case_all_images/20683401_4.jpg",
+          "../work/display_case_all_images/20683401_5.jpg",
+          "../work/display_case_all_images/20683401_6.jpg"
+        ],
+        "loadedPhotoCount": 6,
+        "actualPhotoCount": 6
+      },
+      "bunker": {
+        "id": "20683450",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F688",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:49 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F688",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683450",
+        "photoLink": "https://us.trailapp.com/trail/446/2026-07-02#/task/20683450/file/6nQ380NTquLf8gwxkP48",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzc5NiwiaGFuZGxlIjoiNm5RMzgwTlRxdUxmOGd3eGtQNDgifQ==,signature:efe4ee5e977b85460365578000d6894f90518d199db30bc7d7ce3e2b12aacc80/6nQ380NTquLf8gwxkP48",
+        "photoCount": 3
+      }
+    },
+    {
+      "site": "krg018F693",
+      "display": {
+        "id": "20683514",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F693",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 7:27 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F693",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683514",
+        "photoLink": "https://us.trailapp.com/trail/452/2026-07-02#/task/20683514/file/RgwlOtk4RGusjHqXAdO4",
+        "imageUrl": "../work/display_case_all_images/20683514_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0NCwiaGFuZGxlIjoiUmd3bE90azRSR3VzakhxWEFkTzQifQ==,signature:bbe5c3fc426573380a8c5ebb8d9643b0be785724b2cffec9db9cdccd59e83a81/RgwlOtk4RGusjHqXAdO4",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0NSwiaGFuZGxlIjoiY1NsSHVBU3FUVU9aN2hMS09USXQifQ==,signature:9798826f80006b18f60552aa5ef99fc42fdd02984a10ee0d19242c7707e80354/cSlHuASqTUOZ7hLKOTIt",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0NSwiaGFuZGxlIjoiaGUwNkZGaU5TVnVFYmp5bHRkTUEifQ==,signature:98f313224e8759c531802918f2d030bbbd64b197b14b4377f0ac4f7ac121e91d/he06FFiNSVuEbjyltdMA",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0NSwiaGFuZGxlIjoiR2VKMGRyV1FPeTJMc3UxZjd4UkgifQ==,signature:dbc87a249b6cac2c4194d1df40b5ecfc2661f7f269e91881381e1aad0439562a/GeJ0drWQOy2Lsu1f7xRH"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683514_1.jpg",
+          "../work/display_case_all_images/20683514_2.jpg",
+          "../work/display_case_all_images/20683514_3.jpg",
+          "../work/display_case_all_images/20683514_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F703",
+      "display": {
+        "id": "20683393",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F703",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:46 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F703",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683393",
+        "photoLink": "https://us.trailapp.com/trail/442/2026-07-02#/task/20683393/file/93Q6xUCjRj2BRloIxtyS",
+        "imageUrl": "../work/display_case_all_images/20683393_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0OCwiaGFuZGxlIjoiOTNRNnhVQ2pSajJCUmxvSXh0eVMifQ==,signature:36544b3eae4494c5ea0cc4d03a5462da132ff5ab9c01e98a8ac1902968f3a386/93Q6xUCjRj2BRloIxtyS",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0OSwiaGFuZGxlIjoiTzVhT3JuVHF1MlhRaHZRSTFZUXoifQ==,signature:5d7df9b0d9c4d9aa74c2fc785e70ab0113897bc021f75e9b4e7a86bcfceeda37/O5aOrnTqu2XQhvQI1YQz",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0OSwiaGFuZGxlIjoia090NEVtNThReXlXUkhvbFl5VnMifQ==,signature:d492209485c8a34ca0c4842d382c05d284b2f418778e95c7d48096af9f02564f/kOt4Em58QyyWRHolYyVs",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI0OSwiaGFuZGxlIjoiSTlSMFozZmpSS2E1SDRKWkNscGwifQ==,signature:fd647e32bf9f987112b8367dc8bc6816b84cb4bbfc443c240ad3183155aa3206/I9R0Z3fjRKa5H4JZClpl"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683393_1.jpg",
+          "../work/display_case_all_images/20683393_2.jpg",
+          "../work/display_case_all_images/20683393_3.jpg",
+          "../work/display_case_all_images/20683393_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F704",
+      "display": {
+        "id": "20683629",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F704",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:03 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F704",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683629",
+        "photoLink": "https://us.trailapp.com/trail/460/2026-07-02#/task/20683629/file/v7Qsgs1JSNyEW3Ua0qfS",
+        "imageUrl": "../work/display_case_all_images/20683629_1.jpg",
+        "photoCount": 1,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjExOCwiaGFuZGxlIjoidjdRc2dzMUpTTnlFVzNVYTBxZlMifQ==,signature:06fa233f90b1f4073297e71e73021537f2696879ccbf07fe66a0898a75ef81c1/v7Qsgs1JSNyEW3Ua0qfS"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683629_1.jpg"
+        ],
+        "loadedPhotoCount": 1,
+        "actualPhotoCount": 1
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F706",
+      "display": {
+        "id": "20683631",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F706",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:23 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F706",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683631",
+        "photoLink": "https://us.trailapp.com/trail/462/2026-07-02#/task/20683631/file/nTWPJAboQhuLC5fAZ5SI",
+        "imageUrl": "../work/display_case_all_images/20683631_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI1MiwiaGFuZGxlIjoiblRXUEpBYm9RaHVMQzVmQVo1U0kifQ==,signature:cd052c95340f253b7bbd038b2eec2c9f0485e651f661ed8e14d99ae71d490872/nTWPJAboQhuLC5fAZ5SI",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI1MywiaGFuZGxlIjoicGMwMTdhbGRTMGFwUTRndmIzU3QifQ==,signature:447cdacc73727d76c36e5b2f3c0717143d14cacc2ca8c45bea1c43f0482332fc/pc017aldS0apQ4gvb3St",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI1MywiaGFuZGxlIjoiV1V2U0RvcGlSbktJaWMzdG1QcGwifQ==,signature:c3baa60c5ba0303c98a24fe5efa07a9acd1b93371f01204dcde0044df7cc7a6c/WUvSDopiRnKIic3tmPpl",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI1MywiaGFuZGxlIjoiNFpnUFJXdnBSVjZ4T3drYmRCUDAifQ==,signature:77f514350e0518e80e30c9307b1c271605cd027ecd049843881f9b53a0e2e487/4ZgPRWvpRV6xOwkbdBP0"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683631_1.jpg",
+          "../work/display_case_all_images/20683631_2.jpg",
+          "../work/display_case_all_images/20683631_3.jpg",
+          "../work/display_case_all_images/20683631_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F708",
+      "display": {
+        "id": "20683406",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F708",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 2,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683406",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683406",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F710",
+      "display": {
+        "id": "20684004",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F710",
+        "status": "Completed early",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:21 AM",
+        "timing": "an hour and 38 minutes early",
+        "locationStatus": "Inside designated location",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F710",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20684004",
+        "photoLink": "https://us.trailapp.com/trail/489/2026-07-02#/task/20684004/file/JjKwtrRORjO3HwiXWcd4",
+        "imageUrl": "../work/display_case_all_images/20684004_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEyMiwiaGFuZGxlIjoiSmpLd3RyUk9Sak8zSHdpWFdjZDQifQ==,signature:4ee696b2770a30923fd364e0144e5e818db1f3944b236dcc690edbad5355306b/JjKwtrRORjO3HwiXWcd4",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEyMiwiaGFuZGxlIjoiZlAxNkg5bFI1U0ExMjg0Y2diazMifQ==,signature:badd7c176ad666762f4f47be0eed0e6a91677e009975da25fbbafb6e57c5a0f9/fP16H9lR5SA1284cgbk3",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEyMiwiaGFuZGxlIjoiM2FDT3R4RTNSSjZIT1lvUnFTWWwifQ==,signature:b5712273460231631cf0b5482c6c73606ada779663ec27651f6cb29a12a7cbce/3aCOtxE3RJ6HOYoRqSYl",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEyMiwiaGFuZGxlIjoiZGZpMkFwaDVUNXQyV3pYRzdaaTIifQ==,signature:270ab2cfdb1fc439dfad1f2dafa7512524d31b36067a8b4c30a8e2b49e8bb7d3/dfi2Aph5T5t2WzXG7Zi2"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20684004_1.jpg",
+          "../work/display_case_all_images/20684004_2.jpg",
+          "../work/display_case_all_images/20684004_3.jpg",
+          "../work/display_case_all_images/20684004_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F711",
+      "display": {
+        "id": "20683834",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F711",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 2,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683834",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683834",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F716",
+      "display": {
+        "id": "20683751",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F716",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 11:01 AM",
+        "timing": "",
+        "locationStatus": "Outside designated location",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "krg018F716",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683751",
+        "photoLink": "https://us.trailapp.com/trail/469/2026-07-02#/task/20683751/file/JnU5RMV4RxKAfOMAMGu5",
+        "imageUrl": "../work/display_case_all_images/20683751_1.jpg",
+        "photoCount": 3,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEyNCwiaGFuZGxlIjoiSm5VNVJNVjRSeEtBZk9NQU1HdTUifQ==,signature:76c6c4336dbed3089fab5b34ffa7cbb67a3cb4e39e3052aeb32b94162a53093f/JnU5RMV4RxKAfOMAMGu5",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEyNCwiaGFuZGxlIjoiRlBGRk90N3pRM3FVNmo0TWlseGUifQ==,signature:0460466166da3bcabd02a4c593f26ae97df6795e3daf55e854fdb013d640c43a/FPFFOt7zQ3qU6j4Milxe",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEyNCwiaGFuZGxlIjoiWms4YzJpalJmQ3Rpa3dIRXVobGsifQ==,signature:f17d489d8013cd1ca7cbfbd3a02ddfe1fb3a328337f9e2ad56faed1038f55d1c/Zk8c2ijRfCtikwHEuhlk"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683751_1.jpg",
+          "../work/display_case_all_images/20683751_2.jpg",
+          "../work/display_case_all_images/20683751_3.jpg"
+        ],
+        "loadedPhotoCount": 3,
+        "actualPhotoCount": 3
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F720",
+      "display": {
+        "id": "20683883",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F720",
+        "status": "Completed late",
+        "onTime": "No - late",
+        "completedOrDue": "2026-07-02 10:09 AM",
+        "timing": "an hour and 9 minutes late",
+        "locationStatus": "Inside designated location",
+        "comments": 2,
+        "exceptions": 1,
+        "completedBy": "krg018F720",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683883",
+        "photoLink": "https://us.trailapp.com/trail/480/2026-07-02#/task/20683883/file/wgZbFQunTMmZEwXfPdhP",
+        "imageUrl": "../work/display_case_all_images/20683883_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI1NiwiaGFuZGxlIjoid2daYkZRdW5UTW1aRXdYZlBkaFAifQ==,signature:8c507589a35ec28859620e76f67caf33a27157120e401902f1511f9b17398a51/wgZbFQunTMmZEwXfPdhP",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI1NywiaGFuZGxlIjoiNmh0Rjd4dWRRdmlza2V0SURFNFUifQ==,signature:0046db3119ccf7b86c2caaa97693dae0f9b4cb2b9b3eb46048416bf6a8fbc9b8/6htF7xudQvisketIDE4U"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683883_1.jpg",
+          "../work/display_case_all_images/20683883_2.jpg"
+        ],
+        "loadedPhotoCount": 2,
+        "actualPhotoCount": 2
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F724",
+      "display": {
+        "id": "20683640",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F724",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 5,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683640",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683640",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": null
+    },
+    {
+      "site": "krg018F729",
+      "display": {
+        "id": "20683756",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F729",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 6,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683756",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683756",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": {
+        "id": "20683807",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F729",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683807",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683807",
+        "imageUrl": "",
+        "photoCount": 0
+      }
+    },
+    {
+      "site": "krg018F737",
+      "display": {
+        "id": "20683263",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F737",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:18 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F737",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683263",
+        "photoLink": "https://us.trailapp.com/trail/433/2026-07-02#/task/20683263/file/73xACbRCQmSRk0oOBHyX",
+        "imageUrl": "../work/display_case_all_images/20683263_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI2MCwiaGFuZGxlIjoiNzN4QUNiUkNRbVNSazBvT0JIeVgifQ==,signature:1f7675f37e8531d4e0a32337afa22e3472f0809566a7c9669e724a43f885ec3c/73xACbRCQmSRk0oOBHyX",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI2MCwiaGFuZGxlIjoiUTFJczNoTFIyS2QwYXpQVzAyUXcifQ==,signature:eced2b48bed8019ce167f0b9e94f8c4dd91cfabf1c19c93805fc217c246dd4d2/Q1Is3hLR2Kd0azPW02Qw",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI2MCwiaGFuZGxlIjoiQkNrRndMZnVSU0dmRGFCaHQxUFgifQ==,signature:c295d22055107d25eecc18dd4867462b0e8cadafa46d6f2fbe71e9672d24f539/BCkFwLfuRSGfDaBht1PX",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI2MCwiaGFuZGxlIjoiemJ5SWRzOWVRbDZjVE93cDBuMzAifQ==,signature:266cd299a8286909a95381e3df44ef81241be227dec773b74bd3bdcb95cc2c38/zbyIds9eQl6cTOwp0n30"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683263_1.jpg",
+          "../work/display_case_all_images/20683263_2.jpg",
+          "../work/display_case_all_images/20683263_3.jpg",
+          "../work/display_case_all_images/20683263_4.jpg"
+        ],
+        "loadedPhotoCount": 4,
+        "actualPhotoCount": 4
+      },
+      "bunker": {
+        "id": "20683314",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F737",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:19 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F737",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683314",
+        "photoLink": "https://us.trailapp.com/trail/433/2026-07-02#/task/20683314/file/rPT6LGgBSc68Vppuewa3",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzgyNywiaGFuZGxlIjoiclBUNkxHZ0JTYzY4VnBwdWV3YTMifQ==,signature:cc3d651776a1ca31b1fd9f15974d6834fd6939346cf5029b6c9332369447bea8/rPT6LGgBSc68Vppuewa3",
+        "photoCount": 3
+      }
+    },
+    {
+      "site": "krg018F738",
+      "display": {
+        "id": "20683849",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F738",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:03 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 2,
+        "exceptions": 1,
+        "completedBy": "krg018F738",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683849",
+        "photoLink": "https://us.trailapp.com/trail/477/2026-07-02#/task/20683849/file/dP9YEDKXTOKPykaAvjy4",
+        "imageUrl": "../work/display_case_all_images/20683849_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI2NCwiaGFuZGxlIjoiZFA5WUVES1hUT0tQeWthQXZqeTQifQ==,signature:03bf79871e74dec7eeb9191151534992b49f1bc59a18ec3ed05e507ab64b7c77/dP9YEDKXTOKPykaAvjy4",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI2NCwiaGFuZGxlIjoiWDk3N09VUTVTTERnbmtoS1hwdkEifQ==,signature:e25c5d70ed97deaeaba9fa4a9ead30b25d782f5992de82a46fd4e58049bc4a0c/X977OUQ5SLDgnkhKXpvA"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683849_1.jpg",
+          "../work/display_case_all_images/20683849_2.jpg"
+        ],
+        "loadedPhotoCount": 2,
+        "actualPhotoCount": 2
+      },
+      "bunker": {
+        "id": "20683897",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F738",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:03 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 2,
+        "exceptions": 1,
+        "completedBy": "krg018F738",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683897",
+        "photoLink": "https://us.trailapp.com/trail/477/2026-07-02#/task/20683897/file/Ed91kc6jQnCr8UWNlQbm",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzgzNCwiaGFuZGxlIjoiRWQ5MWtjNmpRbkNyOFVXTmxRYm0ifQ==,signature:f4c67f753ec060086bae7eb97f263b698bf89bd96859d6d1a883a74fbfdc4d01/Ed91kc6jQnCr8UWNlQbm",
+        "photoCount": 4
+      }
+    },
+    {
+      "site": "krg018F743",
+      "display": {
+        "id": "20683266",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F743",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:18 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 6,
+        "exceptions": 1,
+        "completedBy": "krg018F743",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683266",
+        "photoLink": "https://us.trailapp.com/trail/435/2026-07-02#/task/20683266/file/CtPAISQRbqmMjtm6poQ4",
+        "imageUrl": "../work/display_case_all_images/20683266_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzMSwiaGFuZGxlIjoiQ3RQQUlTUVJicW1NanRtNnBvUTQifQ==,signature:8307dd02528ad42b726f096c051faeca0cf0ed0927aedfa90714dd4721bcb09c/CtPAISQRbqmMjtm6poQ4",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzMSwiaGFuZGxlIjoid3RaQ0VRcEhSbVdmcHZ3QXFrM1gifQ==,signature:98534fc44c4db0cf2e2ff61dae80ed38952d464a73b43c7435b37a1b180ed939/wtZCEQpHRmWfpvwAqk3X",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzMSwiaGFuZGxlIjoia1JyT2NTZUJRN0FMNnR3NjdvencifQ==,signature:9ff549ddda4f939aead5667dd8a411586df3fdb83aad457f1c5a972b0b0c7180/kRrOcSeBQ7AL6tw67ozw",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzMSwiaGFuZGxlIjoiQlFFdFlnbnRUc2ExZU9ldDdWSEcifQ==,signature:ecf2c067d925875a2f95a56f4f0a46dbae0ee56cdacaecd1472a7a392069e519/BQEtYgntTsa1eOet7VHG",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzMSwiaGFuZGxlIjoiRVo5akFrSktTcThwQllpQ1lSQzgifQ==,signature:5156ab8b4a1b99df35deffc210087aa7a6cf633fca21d7a9f1efdbccb63ff6e4/EZ9jAkJKSq8pBYiCYRC8",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzMSwiaGFuZGxlIjoiWTdYVVozVGRSNzZRVGZCRFlkQnEifQ==,signature:b36d910714141f660a5745898f7033da770ca42203c219c1dcf89c04b4c439e9/Y7XUZ3TdR76QTfBDYdBq",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzMSwiaGFuZGxlIjoickEwM1RDalRZVzQ4QnB0ZEllYnIifQ==,signature:d4f60d586caf7d6618326f3e5031f2ac9313d648cc11139a763baf000c8b4f03/rA03TCjTYW48BptdIebr",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzMSwiaGFuZGxlIjoia1ZldTVlUUltTmppczd0WTkxQlEifQ==,signature:4bf6cd77cb2db21d08379ababe1f6ea0e514db1c2186806acb556b972e7e2af6/kVeu5eQImNjis7tY91BQ",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzMSwiaGFuZGxlIjoiUWk4SVNnZkNRZ2VwOUFrdlVLWEIifQ==,signature:03e31b673ee9364f8a98b6c03150291f2e54087032ceeec5863ce243fe34df1d/Qi8ISgfCQgep9AkvUKXB",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzMSwiaGFuZGxlIjoielpjUFpVNE5SeHltMXF2WFNPZTkifQ==,signature:3e27a80ccc6531a8d33825073b757f49dd33dcfba0f03f831463e0a3719ad661/zZcPZU4NRxym1qvXSOe9",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzMSwiaGFuZGxlIjoieE9ubHAxNVJFeXdSWTB4UUNIY2QifQ==,signature:ce6e5364c571899abdfffcad6c5635a1f0aaefd7a3ea5e35e643536f0ad85fa4/xOnlp15REywRY0xQCHcd",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzMSwiaGFuZGxlIjoicURTUEFoZ01ScjJhTjFCZlAwUXIifQ==,signature:641d7a2c4490d11b8512de9d4342c40ac88dcf5e31bf5ba5aa838c291531f9f8/qDSPAhgMRr2aN1BfP0Qr"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683266_1.jpg",
+          "../work/display_case_all_images/20683266_2.jpg",
+          "../work/display_case_all_images/20683266_3.jpg",
+          "../work/display_case_all_images/20683266_4.jpg",
+          "../work/display_case_all_images/20683266_5.jpg",
+          "../work/display_case_all_images/20683266_6.jpg",
+          "../work/display_case_all_images/20683266_7.jpg",
+          "../work/display_case_all_images/20683266_8.jpg",
+          "../work/display_case_all_images/20683266_9.jpg",
+          "../work/display_case_all_images/20683266_10.jpg",
+          "../work/display_case_all_images/20683266_11.jpg",
+          "../work/display_case_all_images/20683266_12.jpg"
+        ],
+        "loadedPhotoCount": 12,
+        "actualPhotoCount": 12
+      },
+      "bunker": {
+        "id": "20683318",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F743",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:18 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F743",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683318",
+        "photoLink": "https://us.trailapp.com/trail/435/2026-07-02#/task/20683318/file/FGdkiW5S9icBG8bIFgIG",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzg0MSwiaGFuZGxlIjoiRkdka2lXNVM5aWNCRzhiSUZnSUcifQ==,signature:0494f54e5c29fc12a2889843aaef6fea41585765d41d3592ac359f11ae7564b9/FGdkiW5S9icBG8bIFgIG",
+        "photoCount": 1
+      }
+    },
+    {
+      "site": "krg018F749",
+      "display": {
+        "id": "20684037",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F749",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:17 AM",
+        "timing": "",
+        "locationStatus": "Inside designated location",
+        "comments": 6,
+        "exceptions": 1,
+        "completedBy": "krg018F749",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20684037",
+        "photoLink": "https://us.trailapp.com/trail/492/2026-07-02#/task/20684037/file/e4uA6pkRJi31aeapprWA",
+        "imageUrl": "../work/display_case_all_images/20684037_1.jpg",
+        "photoCount": 8,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI2NywiaGFuZGxlIjoiZTR1QTZwa1JKaTMxYWVhcHByV0EifQ==,signature:667ceeb6279d23273cc74080de68125cfc12c3b4cad8b770df6e86f4aedd2880/e4uA6pkRJi31aeapprWA",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI2OCwiaGFuZGxlIjoiYnRPeVZCdVlRYWVMNHU3aHczS1MifQ==,signature:0c25f6af1ee16325aa3714f0b10fd6be39a6e6d1f974fd8dc56e7cb9204dc597/btOyVBuYQaeL4u7hw3KS",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI2OCwiaGFuZGxlIjoiMGFpbHB2ZEhRcHF1QlU5c2pRMjkifQ==,signature:352f53e5ba588df223bc156f26c8f28ed0816639cf97c227a272b5a4b6ca9b1b/0ailpvdHQpquBU9sjQ29",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI2OCwiaGFuZGxlIjoiVlQ0Q3EzNmpTa3lIRnFlV01yTGcifQ==,signature:5c619005452b33f6b6295b53aaee54e08ed579d5279249d71ca9e76b9de74974/VT4Cq36jSkyHFqeWMrLg",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI2OCwiaGFuZGxlIjoiR3RXYnI3T1F0bXhSTmdCdmxLQ0cifQ==,signature:29c0c2668bb7279431e7055cf016475cc95188f682ac1e111ca8ea2e9cd5e204/GtWbr7OQtmxRNgBvlKCG",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI2OCwiaGFuZGxlIjoiTU9hMXZPQVNScU0xT0kxV0RNVTcifQ==,signature:7510db31bb8f54ac9333bcdac728f780a31d1ca3b8a28e7afd6a7fa5fcd6c4b2/MOa1vOASRqM1OI1WDMU7"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20684037_1.jpg",
+          "../work/display_case_all_images/20684037_2.jpg",
+          "../work/display_case_all_images/20684037_3.jpg",
+          "../work/display_case_all_images/20684037_4.jpg",
+          "../work/display_case_all_images/20684037_5.jpg",
+          "../work/display_case_all_images/20684037_6.jpg"
+        ],
+        "loadedPhotoCount": 6,
+        "actualPhotoCount": 6
+      },
+      "bunker": {
+        "id": "20684086",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F749",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:19 AM",
+        "timing": "",
+        "locationStatus": "Inside designated location",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F749",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20684086",
+        "photoLink": "https://us.trailapp.com/trail/492/2026-07-02#/task/20684086/file/zCyppD4nRZWpGXUldFhR",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzg0OCwiaGFuZGxlIjoiekN5cHBENG5SWldwR1hVbGRGaFIifQ==,signature:cefe5d36be56b83e9b6c93e9f09a361da5340a0e5ed2235a5bac47546fdf1106/zCyppD4nRZWpGXUldFhR",
+        "photoCount": 3
+      }
+    },
+    {
+      "site": "krg018F751",
+      "display": {
+        "id": "20683268",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F751",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:22 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F751",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683268",
+        "photoLink": "https://us.trailapp.com/trail/436/2026-07-02#/task/20683268/file/JAPVjjTFSrSW7Gu54b2A",
+        "imageUrl": "../work/display_case_all_images/20683268_1.jpg",
+        "photoCount": 3,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI3MSwiaGFuZGxlIjoiSkFQVmpqVEZTclNXN0d1NTRiMkEifQ==,signature:946c8e4669ebfc1ea4976967aba7b6a8bfead661fb2ad89d2a2da5b32ab83c94/JAPVjjTFSrSW7Gu54b2A"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683268_1.jpg"
+        ],
+        "loadedPhotoCount": 1,
+        "actualPhotoCount": 1
+      },
+      "bunker": {
+        "id": "20683319",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F751",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:22 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F751",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683319",
+        "photoLink": "https://us.trailapp.com/trail/436/2026-07-02#/task/20683319/file/u0kkBnzT8SfYJAC0Gqkg",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzg1NSwiaGFuZGxlIjoidTBra0JuelQ4U2ZZSkFDMEdxa2cifQ==,signature:569d5859ebf64d180e35eb99b14574133a54398e7876770c7a02a1f60e6309f1/u0kkBnzT8SfYJAC0Gqkg",
+        "photoCount": 3
+      }
+    },
+    {
+      "site": "krg018F754",
+      "display": {
+        "id": "20683714",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F754",
+        "status": "Completed early",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:28 AM",
+        "timing": "an hour and 31 minutes early",
+        "locationStatus": "Location unknown",
+        "comments": 6,
+        "exceptions": 1,
+        "completedBy": "krg018F710",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683714",
+        "photoLink": "https://us.trailapp.com/trail/468/2026-07-02#/task/20683714/file/0pyMLahQSCSeqyIfCIsa",
+        "imageUrl": "../work/display_case_all_images/20683714_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzNywiaGFuZGxlIjoiMHB5TUxhaFFTQ1NlcXlJZkNJc2EifQ==,signature:01bbf7160cc689a6a0af649bd2d6faf8c7d69279884737a50fed7832d0bf6655/0pyMLahQSCSeqyIfCIsa",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzOCwiaGFuZGxlIjoiMXlTVms0TVhRVlMwdmxsa2ZaWjYifQ==,signature:592e6614b249958166bfb41135385c2ef9cd77723e08d71036a7496f4ef42a8a/1ySVk4MXQVS0vllkfZZ6",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzOCwiaGFuZGxlIjoiSzNNSVFkS0NTdXJLdmlQcU40NHcifQ==,signature:6c26383547ae12c630c668414eff6658594e66b817ebef4472b541ae7763db1c/K3MIQdKCSurKviPqN44w",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzOCwiaGFuZGxlIjoiREZSV05oVmVUR2dnd2xqcTdVV2EifQ==,signature:d0c39cec5fc9587fa1a529c90ade8266ba7079e7121891c7d33fdea7acf79f3b/DFRWNhVeTGggwljq7UWa",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzOCwiaGFuZGxlIjoiNzBPbzZHVW1SMnE5VVpYaWQ1QkoifQ==,signature:f2e0c2838b2ee4e5b203a10f84d641ba6c63a09e4e7ba1bf53cac40d93d83847/70Oo6GUmR2q9UZXid5BJ",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzOCwiaGFuZGxlIjoiZjJjbXFSWWhUUlNMaG1XbDlzakkifQ==,signature:4dea07c750ed2a7bc54e0d3f892eed71a2c41be78693c64a8b0fe13685889499/f2cmqRYhTRSLhmWl9sjI"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683714_1.jpg",
+          "../work/display_case_all_images/20683714_2.jpg",
+          "../work/display_case_all_images/20683714_3.jpg",
+          "../work/display_case_all_images/20683714_4.jpg",
+          "../work/display_case_all_images/20683714_5.jpg",
+          "../work/display_case_all_images/20683714_6.jpg"
+        ],
+        "loadedPhotoCount": 6,
+        "actualPhotoCount": 6
+      },
+      "bunker": {
+        "id": "20683764",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F754",
+        "status": "Completed early",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:26 AM",
+        "timing": "an hour and 33 minutes early",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F710",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683764",
+        "photoLink": "https://us.trailapp.com/trail/468/2026-07-02#/task/20683764/file/fxJQpvsjReqflSixw8vP",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzg2MiwiaGFuZGxlIjoiZnhKUXB2c2pSZXFmbFNpeHc4dlAifQ==,signature:e60fba7ff912e3429fa69f6acc5169df3129f702dc4ec01a33adf9d3dbc3e74b/fxJQpvsjReqflSixw8vP",
+        "photoCount": 1
+      }
+    },
+    {
+      "site": "krg018F757",
+      "display": {
+        "id": "20683265",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F757",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:18 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 6,
+        "exceptions": 1,
+        "completedBy": "krg018F757",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683265",
+        "photoLink": "https://us.trailapp.com/trail/434/2026-07-02#/task/20683265/file/bfT7vNbPRCS1y0nFU2DL",
+        "imageUrl": "../work/display_case_all_images/20683265_1.jpg",
+        "photoCount": 6,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjEzOSwiaGFuZGxlIjoiYmZUN3ZOYlBSQ1MxeTBuRlUyREwifQ==,signature:305c1d3e5994ab0cc5a9f1c4beb3c96b923fbfd320d6c7aa7bdfae86a0cc056f/bfT7vNbPRCS1y0nFU2DL",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE0MCwiaGFuZGxlIjoiMmd4TEhvZmpTbm16SksyMllLSzkifQ==,signature:f2e2138cb90df1297fc546f61cae0bcef8115a3a1d6059413fdee1b1918a2626/2gxLHofjSnmzJK22YKK9",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE0MCwiaGFuZGxlIjoiYVFLU204R3BTeXVkeFcwSjlza1IifQ==,signature:72d2f4d782e1b251f2a2c45ab634c18f0c5d79db60720ea7cb2fb6ad7e1246fe/aQKSm8GpSyudxW0J9skR",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE0MCwiaGFuZGxlIjoiRkNySTQ5aVFSaktjTXdxSVRqZHcifQ==,signature:cf14c2910851802866d44b407db479a2536b571e93d06441ec53d017c957be0b/FCrI49iQRjKcMwqITjdw",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE0MCwiaGFuZGxlIjoiVTUzdVp1VTdUdGlpakd5cTlLcHYifQ==,signature:19f8d8d1dce1c587de02c293dfbf792d5501fd9a43bc8afa7001fa060029f8fa/U53uZuU7TtiijGyq9Kpv",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE0MCwiaGFuZGxlIjoiU2lEUFRENURTbWV4YUxzdU1vQ2YifQ==,signature:0e02a046412ef7829b0f06f76ed4629e37988700b261894d76a07e6b0c064a44/SiDPTD5DSmexaLsuMoCf"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683265_1.jpg",
+          "../work/display_case_all_images/20683265_2.jpg",
+          "../work/display_case_all_images/20683265_3.jpg",
+          "../work/display_case_all_images/20683265_4.jpg",
+          "../work/display_case_all_images/20683265_5.jpg",
+          "../work/display_case_all_images/20683265_6.jpg"
+        ],
+        "loadedPhotoCount": 6,
+        "actualPhotoCount": 6
+      },
+      "bunker": {
+        "id": "20683315",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F757",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 9:20 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 2,
+        "exceptions": 1,
+        "completedBy": "krg018F757",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683315",
+        "photoLink": "https://us.trailapp.com/trail/434/2026-07-02#/task/20683315/file/vSM4GqGqS1mtQyQZMjAp",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzg2OSwiaGFuZGxlIjoidlNNNEdxR3FTMW10UXlRWk1qQXAifQ==,signature:aa0034b6861618050828ab00ee0a7015ca2e130049facab42134074f6214c5d6/vSM4GqGqS1mtQyQZMjAp",
+        "photoCount": 2
+      }
+    },
+    {
+      "site": "krg018F759",
+      "display": {
+        "id": "20683909",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F759",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 6,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683909",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683909",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": {
+        "id": "20683956",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F759",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683956",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20683956",
+        "imageUrl": "",
+        "photoCount": 0
+      }
+    },
+    {
+      "site": "krg018F774",
+      "display": {
+        "id": "20684013",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F774",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 2,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20684013",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20684013",
+        "imageUrl": "",
+        "photoCount": 0,
+        "imageUrls": [],
+        "loadedPhotoCount": 0,
+        "actualPhotoCount": 0
+      },
+      "bunker": {
+        "id": "20684060",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F774",
+        "status": "In progress",
+        "onTime": "Not completed yet",
+        "completedOrDue": "Due by 6:00 PM - 2 Jul 2026",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20684060",
+        "photoLink": "https://us.trailapp.com/taskontrail?task=20684060",
+        "imageUrl": "",
+        "photoCount": 0
+      }
+    },
+    {
+      "site": "krg018F775",
+      "display": {
+        "id": "20683460",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F775",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:18 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 4,
+        "exceptions": 1,
+        "completedBy": "krg018F775",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683460",
+        "photoLink": "https://us.trailapp.com/trail/448/2026-07-02#/task/20683460/file/tbVrAOG9QUeS4z22GOla",
+        "imageUrl": "../work/display_case_all_images/20683460_1.jpg",
+        "photoCount": 4,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE0MSwiaGFuZGxlIjoidGJWckFPRzlRVWVTNHoyMkdPbGEifQ==,signature:2b7ddc2ab93f8f681519fda69712e5d057eb34bfb4a35717e2034b4b4c5f2db1/tbVrAOG9QUeS4z22GOla",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE0MiwiaGFuZGxlIjoiMzhoeXFzMVdSQ2NDMlZ5Z3hqQmcifQ==,signature:a1ac02c24160807394720a645302c469444063babc6138eaaab864079f91bdc2/38hyqs1WRCcC2VygxjBg",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE0MiwiaGFuZGxlIjoibUUxZ3JNdmxUa093VnhxaU9ZQ3gifQ==,signature:e1c7fe2da187432b29278647a8e253184a6c471d0b949db05105e610d5a7c3d1/mE1grMvlTkOwVxqiOYCx",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE0MiwiaGFuZGxlIjoiQmxmczFaZXJUTENWN2ZLTGt6ZUkifQ==,signature:e14dda34f0e914f10f1a0ae62275169c0fab696277177dcfab77eb4587b59af2/Blfs1ZerTLCV7fKLkzeI",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE0MiwiaGFuZGxlIjoiTkl1SmpBZFZUdnZZSll2SHU3UFEifQ==,signature:56705f8cdf4f7be10b38eee57ff0924ebefe00dff2c4411b4cea4f31088e2473/NIuJjAdVTvvYJYvHu7PQ",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjE0MiwiaGFuZGxlIjoiakxYNk1kNWpTRUNzbTB0NG9ZRjYifQ==,signature:bdbaff6aca13b21ac1eeb83fbc790ee2173634a3d492a5a4f836f7b5a9ea172c/jLX6Md5jSECsm0t4oYF6"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683460_1.jpg",
+          "../work/display_case_all_images/20683460_2.jpg",
+          "../work/display_case_all_images/20683460_3.jpg",
+          "../work/display_case_all_images/20683460_4.jpg",
+          "../work/display_case_all_images/20683460_5.jpg",
+          "../work/display_case_all_images/20683460_6.jpg"
+        ],
+        "loadedPhotoCount": 6,
+        "actualPhotoCount": 6
+      },
+      "bunker": {
+        "id": "20683508",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F775",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:18 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F775",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683508",
+        "photoLink": "https://us.trailapp.com/trail/448/2026-07-02#/task/20683508/file/xiLq4VXuRcqVY2C7kFH8",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzg3NiwiaGFuZGxlIjoieGlMcTRWWHVSY3FWWTJDN2tGSDgifQ==,signature:878aa239aec2fc1a5ff2646ea2abfbb7fafde4267a55f885e50a3248aaf5ab41/xiLq4VXuRcqVY2C7kFH8",
+        "photoCount": 1
+      }
+    },
+    {
+      "site": "krg018F776",
+      "display": {
+        "id": "20683774",
+        "taskName": "Kroger Display Case Photo",
+        "site": "krg018F776",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:59 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 3,
+        "exceptions": 1,
+        "completedBy": "krg018F776",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683774",
+        "photoLink": "https://us.trailapp.com/trail/474/2026-07-02#/task/20683774/file/ord5zGAdTDawxHjQQ5vj",
+        "imageUrl": "../work/display_case_all_images/20683774_1.jpg",
+        "photoCount": 5,
+        "remoteImageUrls": [
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI3NSwiaGFuZGxlIjoib3JkNXpHQWRURGF3eEhqUVE1dmoifQ==,signature:62da964ff1d70cd8f3c1f492d92991afea703928714d4979a16f9f0fc5175c16/ord5zGAdTDawxHjQQ5vj",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI3NiwiaGFuZGxlIjoiUTBXM0pUU2tUVXFnSTVKS1ZueEYifQ==,signature:b6b754ccb86502965acfa510c661e8eb87432b30ed81a2924085a561e8f8ae51/Q0W3JTSkTUqgI5JKVnxF",
+          "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAzMjI3NiwiaGFuZGxlIjoiVEdEMXhjblhSMkNvazg4ZUdKZ1MifQ==,signature:ba102e0d38bb1d4a7cb223f6190a55fecc926eaa884c3c3c70188eeab35e3367/TGD1xcnXR2Cok88eGJgS"
+        ],
+        "imageUrls": [
+          "../work/display_case_all_images/20683774_1.jpg",
+          "../work/display_case_all_images/20683774_2.jpg",
+          "../work/display_case_all_images/20683774_3.jpg"
+        ],
+        "loadedPhotoCount": 3,
+        "actualPhotoCount": 3
+      },
+      "bunker": {
+        "id": "20683822",
+        "taskName": "Kroger Display Case Photo - Destination Bunker",
+        "site": "krg018F776",
+        "status": "Completed",
+        "onTime": "Yes",
+        "completedOrDue": "2026-07-02 8:54 AM",
+        "timing": "",
+        "locationStatus": "Location unknown",
+        "comments": 1,
+        "exceptions": 1,
+        "completedBy": "krg018F776",
+        "taskLink": "https://us.trailapp.com/taskontrail?task=20683822",
+        "photoLink": "https://us.trailapp.com/trail/474/2026-07-02#/task/20683822/file/KXTOZI9WRZ6RgWJFtaP0",
+        "imageUrl": "https://cdn.filestackcontent.com/AEllk3RrET76J2cS0A7a0z/resize=width:500/security=policy:eyJjYWxsIjpbInJlYWQiLCJjb252ZXJ0Il0sImV4cGlyeSI6MTc4MzAxMzg4MywiaGFuZGxlIjoiS1hUT1pJOVdSWjZSZ1dKRnRhUDAifQ==,signature:ea19ea17dc564966a57cdda90b67e4a3ac11b8687823177001b72254dd802f5b/KXTOZI9WRZ6RgWJFtaP0",
+        "photoCount": 3
+      }
+    }
+  ]
+}

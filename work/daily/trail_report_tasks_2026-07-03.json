@@ -1,0 +1,673 @@
+{
+  "date": "2026-07-03",
+  "refreshedAt": "2026-07-03T15:24:30.281Z",
+  "count": 111,
+  "tasks": [
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20751088",
+      "id": "20751088",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F605\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:53 AM - 3 Jul 2026 by krg018F605",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20750841",
+      "id": "20750841",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F416\n1 exception\n1 comment\nLocation unknown\nCompleted - 7:44 AM - 3 Jul 2026 by krg018F416",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20750798",
+      "id": "20750798",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F416\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20750790",
+      "id": "20750790",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F416\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:05 AM - 3 Jul 2026 by krg018F416",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20721106",
+      "id": "20721106",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted late\nkrg018F449\n1 exception\n1 comment\nLocation unknown\nCompleted - 10:07 AM - 3 Jul 2026 by krg018F449\nan hour and 7 minutes late",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20721080",
+      "id": "20721080",
+      "text": "Kroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F684\nLocation unknown\nDue by 1:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20721069",
+      "id": "20721069",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F605\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:53 AM - 3 Jul 2026 by krg018F605\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F416\n1 exception\n1 comment\nLocation unknown\nCompleted - 7:44 AM - 3 Jul 2026 by krg018F416\nKroger Display Case Photo\nIn progress\nkrg018F416\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F416\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:05 AM - 3 Jul 2026 by krg018F416\nKroger Display Case Photo - Destination Bunker\nCompleted late\nkrg018F449\n1 exception\n1 comment\nLocation unknown\nCompleted - 10:07 AM - 3 Jul 2026 by krg018F449\nan hour and 7 minutes late\nKroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F684\nLocation unknown\nDue by 1:00 PM - 3 Jul 2026\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F749\n1 exception\n1 comment\nInside designated location\nCompleted - 9:14 AM - 3 Jul 2026 by krg018F749\nKroger Display Case Photo - Destination Bunker\nCompleted early\nkrg018F443\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:02 AM - 3 Jul 2026 by krg018F443\nan hour and 57 minutes early\nKroger Display Case Photo\nCompleted late\nkrg018F449\n1 exception\n1 comment\nLocation unknown\nCompleted - 10:08 AM - 3 Jul 2026 by krg018F449\nan hour and 8 minutes late",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20721067",
+      "id": "20721067",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted early\nkrg018F443\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:02 AM - 3 Jul 2026 by krg018F443\nan hour and 57 minutes early",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20721057",
+      "id": "20721057",
+      "text": "Kroger Display Case Photo\nCompleted late\nkrg018F449\n1 exception\n1 comment\nLocation unknown\nCompleted - 10:08 AM - 3 Jul 2026 by krg018F449\nan hour and 8 minutes late",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20721045",
+      "id": "20721045",
+      "text": "Kroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F774\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20721037",
+      "id": "20721037",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F774\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:54 AM - 3 Jul 2026 by krg018F774",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20721032",
+      "id": "20721032",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F684\nLocation unknown\nDue by 1:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20721024",
+      "id": "20721024",
+      "text": "Kroger Display Case Photo\nCompleted late\nkrg018F449\n1 exception\n1 comment\nLocation unknown\nCompleted - 10:08 AM - 3 Jul 2026 by krg018F449\nan hour and 8 minutes late\nKroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F774\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F774\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:54 AM - 3 Jul 2026 by krg018F774\nKroger Display Case Photo\nIn progress\nkrg018F684\nLocation unknown\nDue by 1:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F749\n1 exception\n6 comments\nInside designated location\nCompleted - 9:11 AM - 3 Jul 2026 by krg018F749\nKroger Display Case Photo\nCompleted early\nkrg018F443\n1 exception\n4 comments\nLocation unknown\nCompleted - 9:04 AM - 3 Jul 2026 by krg018F443\nan hour and 55 minutes early\nKroger Display Case Photo\nIn progress\nkrg018F774\n1 exception\n2 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted early\nkrg018F710\n1 exception\n4 comments\nInside designated location\nCompleted - 8:59 AM - 3 Jul 2026 by krg018F710\n2 hours early\nKroger Display Case Photo\nCompleted\nkrg018F774\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:54 AM - 3 Jul 2026 by krg018F774\nKroger Display Case Photo\nIn progress\nkrg018F663\n1 exception\n1 comment\nLocation unknown\nDue by 7:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20721017",
+      "id": "20721017",
+      "text": "Kroger Display Case Photo\nCompleted early\nkrg018F443\n1 exception\n4 comments\nLocation unknown\nCompleted - 9:04 AM - 3 Jul 2026 by krg018F443\nan hour and 55 minutes early",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720996",
+      "id": "20720996",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F774\n1 exception\n2 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720991",
+      "id": "20720991",
+      "text": "Kroger Display Case Photo\nCompleted early\nkrg018F710\n1 exception\n4 comments\nInside designated location\nCompleted - 8:59 AM - 3 Jul 2026 by krg018F710\n2 hours early\nKroger Display Case Photo\nCompleted\nkrg018F774\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:54 AM - 3 Jul 2026 by krg018F774\nKroger Display Case Photo\nIn progress\nkrg018F663\n1 exception\n1 comment\nLocation unknown\nDue by 7:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted early\nkrg018F663\n1 exception\n4 comments\nInside designated location\nCompleted - 9:35 AM - 3 Jul 2026 by krg018F663\nan hour and 24 minutes early\nKroger Display Case Photo\nCompleted\nkrg018F622\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:34 AM - 3 Jul 2026 by krg018F622\nKroger Display Case Photo\nCompleted late\nkrg018F495\n1 exception\n6 comments\nLocation unknown\nCompleted - 9:44 AM - 3 Jul 2026 by krg018F495\n44 minutes late\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F526\n1 exception\n1 comment\nLocation unknown\nCompleted - 7:32 AM - 3 Jul 2026 by krg018F526\nKroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F759\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted early\nkrg018F455\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:47 AM - 3 Jul 2026 by krg018F455@snowfruitfranchisee.com\n2 hours and 12 minutes early",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720989",
+      "id": "20720989",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F774\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:54 AM - 3 Jul 2026 by krg018F774",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720986",
+      "id": "20720986",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F663\n1 exception\n1 comment\nLocation unknown\nDue by 7:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720978",
+      "id": "20720978",
+      "text": "Kroger Display Case Photo\nCompleted early\nkrg018F710\n1 exception\n4 comments\nInside designated location\nCompleted - 8:59 AM - 3 Jul 2026 by krg018F710\n2 hours early\nKroger Display Case Photo\nCompleted\nkrg018F774\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:54 AM - 3 Jul 2026 by krg018F774\nKroger Display Case Photo\nIn progress\nkrg018F663\n1 exception\n1 comment\nLocation unknown\nDue by 7:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted early\nkrg018F663\n1 exception\n4 comments\nInside designated location\nCompleted - 9:35 AM - 3 Jul 2026 by krg018F663\nan hour and 24 minutes early\nKroger Display Case Photo\nCompleted\nkrg018F622\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:34 AM - 3 Jul 2026 by krg018F622\nKroger Display Case Photo\nCompleted late\nkrg018F495\n1 exception\n6 comments\nLocation unknown\nCompleted - 9:44 AM - 3 Jul 2026 by krg018F495\n44 minutes late\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F526\n1 exception\n1 comment\nLocation unknown\nCompleted - 7:32 AM - 3 Jul 2026 by krg018F526\nKroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F759\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted early\nkrg018F455\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:47 AM - 3 Jul 2026 by krg018F455@snowfruitfranchisee.com\n2 hours and 12 minutes early",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720967",
+      "id": "20720967",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F622\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:34 AM - 3 Jul 2026 by krg018F622",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720966",
+      "id": "20720966",
+      "text": "Kroger Display Case Photo\nCompleted late\nkrg018F495\n1 exception\n6 comments\nLocation unknown\nCompleted - 9:44 AM - 3 Jul 2026 by krg018F495\n44 minutes late",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720947",
+      "id": "20720947",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F526\n1 exception\n1 comment\nLocation unknown\nCompleted - 7:32 AM - 3 Jul 2026 by krg018F526",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720941",
+      "id": "20720941",
+      "text": "Kroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F759\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720939",
+      "id": "20720939",
+      "text": "Kroger Display Case Photo\nCompleted early\nkrg018F455\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:47 AM - 3 Jul 2026 by krg018F455@snowfruitfranchisee.com\n2 hours and 12 minutes early",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720936",
+      "id": "20720936",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F638\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:51 AM - 3 Jul 2026 by krg018F638",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720935",
+      "id": "20720935",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F759\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:43 AM - 3 Jul 2026 by krg018F759",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720898",
+      "id": "20720898",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F526\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:15 AM - 3 Jul 2026 by krg018F526",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720895",
+      "id": "20720895",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F759\n1 exception\n6 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720892",
+      "id": "20720892",
+      "text": "Kroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F738\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720889",
+      "id": "20720889",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F638\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:51 AM - 3 Jul 2026 by krg018F638",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720887",
+      "id": "20720887",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F759\n1 exception\n6 comments\nLocation unknown\nCompleted - 8:42 AM - 3 Jul 2026 by krg018F759",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720885",
+      "id": "20720885",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F759\n1 exception\n6 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F738\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F638\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:51 AM - 3 Jul 2026 by krg018F638\nKroger Display Case Photo\nCompleted\nkrg018F759\n1 exception\n6 comments\nLocation unknown\nCompleted - 8:42 AM - 3 Jul 2026 by krg018F759\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F738\n1 exception\n2 comments\nInside designated location\nCompleted - 9:01 AM - 3 Jul 2026 by krg018F738\nKroger Display Case Photo\nCompleted\nkrg018F444\n1 exception\n2 comments\nLocation unknown\nCompleted - 7:46 AM - 3 Jul 2026 by krg018F444\nKroger Display Case Photo\nCompleted\nkrg018F720\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:27 AM - 3 Jul 2026 by krg018F720\nKroger Display Case Photo\nIn progress\nkrg018F465\n1 exception\n3 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F465\n1 exception\n4 comments\nInside designated location\nCompleted - 8:52 AM - 3 Jul 2026 by krg018F465\nKroger Display Case Photo\nCompleted\nkrg018F409\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:54 AM - 3 Jul 2026 by krg018F409",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720873",
+      "id": "20720873",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F444\n1 exception\n2 comments\nLocation unknown\nCompleted - 7:46 AM - 3 Jul 2026 by krg018F444",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720869",
+      "id": "20720869",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F720\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:27 AM - 3 Jul 2026 by krg018F720",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720865",
+      "id": "20720865",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F465\n1 exception\n3 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720858",
+      "id": "20720858",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F465\n1 exception\n3 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F465\n1 exception\n4 comments\nInside designated location\nCompleted - 8:52 AM - 3 Jul 2026 by krg018F465\nKroger Display Case Photo\nCompleted\nkrg018F409\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:54 AM - 3 Jul 2026 by krg018F409\nKroger Display Case Photo\nCompleted\nkrg018F738\n1 exception\n2 comments\nInside designated location\nCompleted - 8:59 AM - 3 Jul 2026 by krg018F738\nKroger Display Case Photo\nIn progress\nkrg018F711\n1 exception\n2 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F419\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F711\n1 exception\n3 comments\nInside designated location\nCompleted - 8:43 AM - 3 Jul 2026 by krg018F711\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F419\n1 exception\n1 comment\nInside designated location\nCompleted - 9:07 AM - 3 Jul 2026 by krg018F419\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F366\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:49 AM - 3 Jul 2026 by krg018F366",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720849",
+      "id": "20720849",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F409\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:54 AM - 3 Jul 2026 by krg018F409",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720836",
+      "id": "20720836",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F465\n1 exception\n3 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F465\n1 exception\n4 comments\nInside designated location\nCompleted - 8:52 AM - 3 Jul 2026 by krg018F465\nKroger Display Case Photo\nCompleted\nkrg018F409\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:54 AM - 3 Jul 2026 by krg018F409\nKroger Display Case Photo\nCompleted\nkrg018F738\n1 exception\n2 comments\nInside designated location\nCompleted - 8:59 AM - 3 Jul 2026 by krg018F738\nKroger Display Case Photo\nIn progress\nkrg018F711\n1 exception\n2 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F419\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F711\n1 exception\n3 comments\nInside designated location\nCompleted - 8:43 AM - 3 Jul 2026 by krg018F711\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F419\n1 exception\n1 comment\nInside designated location\nCompleted - 9:07 AM - 3 Jul 2026 by krg018F419\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F366\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:49 AM - 3 Jul 2026 by krg018F366",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720827",
+      "id": "20720827",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F711\n1 exception\n2 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720821",
+      "id": "20720821",
+      "text": "Kroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F419\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720820",
+      "id": "20720820",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F711\n1 exception\n3 comments\nInside designated location\nCompleted - 8:43 AM - 3 Jul 2026 by krg018F711\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F419\n1 exception\n1 comment\nInside designated location\nCompleted - 9:07 AM - 3 Jul 2026 by krg018F419\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F366\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:49 AM - 3 Jul 2026 by krg018F366\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F776\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:55 AM - 3 Jul 2026 by krg018F776\nKroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F729\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F729\n1 exception\n1 comment\nInside designated location\nCompleted - 8:58 AM - 3 Jul 2026 by krg018F729\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F615\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:00 AM - 3 Jul 2026 by krg018F615\nKroger Display Case Photo\nIn progress\nkrg018F419\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F419\n1 exception\n3 comments\nInside designated location\nCompleted - 9:07 AM - 3 Jul 2026 by krg018F419\nKroger Display Case Photo\nIn progress\nkrg018F366\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720815",
+      "id": "20720815",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F711\n1 exception\n3 comments\nInside designated location\nCompleted - 8:43 AM - 3 Jul 2026 by krg018F711\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F419\n1 exception\n1 comment\nInside designated location\nCompleted - 9:07 AM - 3 Jul 2026 by krg018F419\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F366\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:49 AM - 3 Jul 2026 by krg018F366\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F776\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:55 AM - 3 Jul 2026 by krg018F776\nKroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F729\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F729\n1 exception\n1 comment\nInside designated location\nCompleted - 8:58 AM - 3 Jul 2026 by krg018F729\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F615\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:00 AM - 3 Jul 2026 by krg018F615\nKroger Display Case Photo\nIn progress\nkrg018F419\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F419\n1 exception\n3 comments\nInside designated location\nCompleted - 9:07 AM - 3 Jul 2026 by krg018F419\nKroger Display Case Photo\nIn progress\nkrg018F366\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720805",
+      "id": "20720805",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F366\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:49 AM - 3 Jul 2026 by krg018F366",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720804",
+      "id": "20720804",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F776\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:55 AM - 3 Jul 2026 by krg018F776",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720794",
+      "id": "20720794",
+      "text": "Kroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F729\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720788",
+      "id": "20720788",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F711\n1 exception\n3 comments\nInside designated location\nCompleted - 8:43 AM - 3 Jul 2026 by krg018F711\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F419\n1 exception\n1 comment\nInside designated location\nCompleted - 9:07 AM - 3 Jul 2026 by krg018F419\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F366\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:49 AM - 3 Jul 2026 by krg018F366\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F776\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:55 AM - 3 Jul 2026 by krg018F776\nKroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F729\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F729\n1 exception\n1 comment\nInside designated location\nCompleted - 8:58 AM - 3 Jul 2026 by krg018F729\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F615\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:00 AM - 3 Jul 2026 by krg018F615\nKroger Display Case Photo\nIn progress\nkrg018F419\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F419\n1 exception\n3 comments\nInside designated location\nCompleted - 9:07 AM - 3 Jul 2026 by krg018F419\nKroger Display Case Photo\nIn progress\nkrg018F366\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720787",
+      "id": "20720787",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F615\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:00 AM - 3 Jul 2026 by krg018F615",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720772",
+      "id": "20720772",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F419\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720766",
+      "id": "20720766",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F419\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F419\n1 exception\n3 comments\nInside designated location\nCompleted - 9:07 AM - 3 Jul 2026 by krg018F419\nKroger Display Case Photo\nIn progress\nkrg018F366\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F776\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:58 AM - 3 Jul 2026 by krg018F776\nKroger Display Case Photo\nCompleted\nkrg018F366\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:49 AM - 3 Jul 2026 by krg018F366\nKroger Display Case Photo - Destination Bunker\nCompleted early\nkrg018F754\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:31 AM - 3 Jul 2026 by krg018F710\nan hour and 28 minutes early\nKroger Display Case Photo\nIn progress\nkrg018F729\n1 exception\n6 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F363\n1 exception\n4 comments\nInside designated location\nCompleted - 9:15 AM - 3 Jul 2026 by krg018F363\nKroger Display Case Photo\nCompleted\nkrg018F716\n1 exception\n3 comments\nOutside designated location\nCompleted - 10:46 AM - 3 Jul 2026 by krg018F716",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720761",
+      "id": "20720761",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F366\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720756",
+      "id": "20720756",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F776\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:58 AM - 3 Jul 2026 by krg018F776",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720754",
+      "id": "20720754",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F366\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:49 AM - 3 Jul 2026 by krg018F366",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720752",
+      "id": "20720752",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted early\nkrg018F754\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:31 AM - 3 Jul 2026 by krg018F710\nan hour and 28 minutes early",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720743",
+      "id": "20720743",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F729\n1 exception\n6 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720740",
+      "id": "20720740",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F729\n1 exception\n6 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F363\n1 exception\n4 comments\nInside designated location\nCompleted - 9:15 AM - 3 Jul 2026 by krg018F363\nKroger Display Case Photo\nCompleted\nkrg018F716\n1 exception\n3 comments\nOutside designated location\nCompleted - 10:46 AM - 3 Jul 2026 by krg018F716\nKroger Display Case Photo\nCompleted\nkrg018F729\n1 exception\n6 comments\nInside designated location\nCompleted - 8:58 AM - 3 Jul 2026 by krg018F729\nKroger Display Case Photo\nOverdue\nkrg018F615\nLocation unknown\nTask was due by 9:00 AM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F716\n1 exception\n3 comments\nOutside designated location\nCompleted - 9:14 AM - 3 Jul 2026 by krg018F716\nKroger Display Case Photo\nCompleted early\nkrg018F754\n1 exception\n6 comments\nLocation unknown\nCompleted - 9:39 AM - 3 Jul 2026 by krg018F710\nan hour and 20 minutes early\nKroger Display Case Photo\nCompleted\nkrg018F578\n1 exception\n4 comments\nInside designated location\nCompleted - 8:56 AM - 3 Jul 2026 by krg018F578\nKroger Display Case Photo\nCompleted\nkrg018F577\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:02 AM - 3 Jul 2026 by krg018F577\nKroger Display Case Photo\nCompleted\nkrg018F618\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:50 AM - 3 Jul 2026 by krg018F618",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720738",
+      "id": "20720738",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F729\n1 exception\n6 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F363\n1 exception\n4 comments\nInside designated location\nCompleted - 9:15 AM - 3 Jul 2026 by krg018F363\nKroger Display Case Photo\nCompleted\nkrg018F716\n1 exception\n3 comments\nOutside designated location\nCompleted - 10:46 AM - 3 Jul 2026 by krg018F716\nKroger Display Case Photo\nCompleted\nkrg018F729\n1 exception\n6 comments\nInside designated location\nCompleted - 8:58 AM - 3 Jul 2026 by krg018F729\nKroger Display Case Photo\nOverdue\nkrg018F615\nLocation unknown\nTask was due by 9:00 AM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F716\n1 exception\n3 comments\nOutside designated location\nCompleted - 9:14 AM - 3 Jul 2026 by krg018F716\nKroger Display Case Photo\nCompleted early\nkrg018F754\n1 exception\n6 comments\nLocation unknown\nCompleted - 9:39 AM - 3 Jul 2026 by krg018F710\nan hour and 20 minutes early\nKroger Display Case Photo\nCompleted\nkrg018F578\n1 exception\n4 comments\nInside designated location\nCompleted - 8:56 AM - 3 Jul 2026 by krg018F578\nKroger Display Case Photo\nCompleted\nkrg018F577\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:02 AM - 3 Jul 2026 by krg018F577\nKroger Display Case Photo\nCompleted\nkrg018F618\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:50 AM - 3 Jul 2026 by krg018F618",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720737",
+      "id": "20720737",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F729\n1 exception\n6 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F363\n1 exception\n4 comments\nInside designated location\nCompleted - 9:15 AM - 3 Jul 2026 by krg018F363\nKroger Display Case Photo\nCompleted\nkrg018F716\n1 exception\n3 comments\nOutside designated location\nCompleted - 10:46 AM - 3 Jul 2026 by krg018F716\nKroger Display Case Photo\nCompleted\nkrg018F729\n1 exception\n6 comments\nInside designated location\nCompleted - 8:58 AM - 3 Jul 2026 by krg018F729\nKroger Display Case Photo\nOverdue\nkrg018F615\nLocation unknown\nTask was due by 9:00 AM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F716\n1 exception\n3 comments\nOutside designated location\nCompleted - 9:14 AM - 3 Jul 2026 by krg018F716\nKroger Display Case Photo\nCompleted early\nkrg018F754\n1 exception\n6 comments\nLocation unknown\nCompleted - 9:39 AM - 3 Jul 2026 by krg018F710\nan hour and 20 minutes early\nKroger Display Case Photo\nCompleted\nkrg018F578\n1 exception\n4 comments\nInside designated location\nCompleted - 8:56 AM - 3 Jul 2026 by krg018F578\nKroger Display Case Photo\nCompleted\nkrg018F577\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:02 AM - 3 Jul 2026 by krg018F577\nKroger Display Case Photo\nCompleted\nkrg018F618\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:50 AM - 3 Jul 2026 by krg018F618",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720736",
+      "id": "20720736",
+      "text": "Kroger Display Case Photo\nOverdue\nkrg018F615\nLocation unknown\nTask was due by 9:00 AM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720730",
+      "id": "20720730",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F729\n1 exception\n6 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F363\n1 exception\n4 comments\nInside designated location\nCompleted - 9:15 AM - 3 Jul 2026 by krg018F363\nKroger Display Case Photo\nCompleted\nkrg018F716\n1 exception\n3 comments\nOutside designated location\nCompleted - 10:46 AM - 3 Jul 2026 by krg018F716\nKroger Display Case Photo\nCompleted\nkrg018F729\n1 exception\n6 comments\nInside designated location\nCompleted - 8:58 AM - 3 Jul 2026 by krg018F729\nKroger Display Case Photo\nOverdue\nkrg018F615\nLocation unknown\nTask was due by 9:00 AM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F716\n1 exception\n3 comments\nOutside designated location\nCompleted - 9:14 AM - 3 Jul 2026 by krg018F716\nKroger Display Case Photo\nCompleted early\nkrg018F754\n1 exception\n6 comments\nLocation unknown\nCompleted - 9:39 AM - 3 Jul 2026 by krg018F710\nan hour and 20 minutes early\nKroger Display Case Photo\nCompleted\nkrg018F578\n1 exception\n4 comments\nInside designated location\nCompleted - 8:56 AM - 3 Jul 2026 by krg018F578\nKroger Display Case Photo\nCompleted\nkrg018F577\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:02 AM - 3 Jul 2026 by krg018F577\nKroger Display Case Photo\nCompleted\nkrg018F618\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:50 AM - 3 Jul 2026 by krg018F618",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720701",
+      "id": "20720701",
+      "text": "Kroger Display Case Photo\nCompleted early\nkrg018F754\n1 exception\n6 comments\nLocation unknown\nCompleted - 9:39 AM - 3 Jul 2026 by krg018F710\nan hour and 20 minutes early",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720698",
+      "id": "20720698",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F578\n1 exception\n4 comments\nInside designated location\nCompleted - 8:56 AM - 3 Jul 2026 by krg018F578\nKroger Display Case Photo\nCompleted\nkrg018F577\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:02 AM - 3 Jul 2026 by krg018F577\nKroger Display Case Photo\nCompleted\nkrg018F618\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:50 AM - 3 Jul 2026 by krg018F618\nKroger Display Case Photo\nCompleted\nkrg018F456\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:01 AM - 3 Jul 2026 by krg018F456\nKroger Display Case Photo\nCompleted\nkrg018F441\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:02 AM - 3 Jul 2026 by krg018F441\nKroger Display Case Photo\nCompleted early\nkrg018F704\n1 exception\n2 comments\nLocation unknown\nCompleted - 9:09 PM - 2 Jul 2026 by krg018F704\n18 hours and 50 minutes early\nKroger Display Case Photo\nCompleted\nkrg018F706\n1 exception\n3 comments\nLocation unknown\nCompleted - 7:36 AM - 3 Jul 2026 by krg018F706\nKroger Display Case Photo\nCompleted\nkrg018F724\n1 exception\n5 comments\nLocation unknown\nCompleted - 7:25 AM - 3 Jul 2026 by krg018F724\nKroger Display Case Photo\nCompleted early\nkrg018F704\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:09 PM - 2 Jul 2026 by krg018F704\n9 hours and 50 minutes early",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720648",
+      "id": "20720648",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F577\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:02 AM - 3 Jul 2026 by krg018F577",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720639",
+      "id": "20720639",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F618\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:50 AM - 3 Jul 2026 by krg018F618",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720635",
+      "id": "20720635",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F456\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:01 AM - 3 Jul 2026 by krg018F456",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720623",
+      "id": "20720623",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F441\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:02 AM - 3 Jul 2026 by krg018F441",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720621",
+      "id": "20720621",
+      "text": "Kroger Display Case Photo\nCompleted early\nkrg018F704\n1 exception\n2 comments\nLocation unknown\nCompleted - 9:09 PM - 2 Jul 2026 by krg018F704\n18 hours and 50 minutes early",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720620",
+      "id": "20720620",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F706\n1 exception\n3 comments\nLocation unknown\nCompleted - 7:36 AM - 3 Jul 2026 by krg018F706",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720618",
+      "id": "20720618",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F724\n1 exception\n5 comments\nLocation unknown\nCompleted - 7:25 AM - 3 Jul 2026 by krg018F724",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720614",
+      "id": "20720614",
+      "text": "Kroger Display Case Photo\nCompleted early\nkrg018F704\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:09 PM - 2 Jul 2026 by krg018F704\n9 hours and 50 minutes early",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720585",
+      "id": "20720585",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F706\n1 exception\n3 comments\nLocation unknown\nCompleted - 7:36 AM - 3 Jul 2026 by krg018F706\nKroger Display Case Photo\nCompleted\nkrg018F724\n1 exception\n5 comments\nLocation unknown\nCompleted - 7:25 AM - 3 Jul 2026 by krg018F724\nKroger Display Case Photo\nCompleted early\nkrg018F704\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:09 PM - 2 Jul 2026 by krg018F704\n9 hours and 50 minutes early\nKroger Display Case Photo\nCompleted early\nkrg018F620\n1 exception\n4 comments\nInside designated location\nCompleted - 10:20 AM - 3 Jul 2026 by krg018F620\n39 minutes early\nKroger Display Case Photo\nCompleted early\nkrg018F492\n1 exception\n1 comment\nLocation unknown\nCompleted - 12:07 PM - 2 Jul 2026 by krg018F492\n18 hours and 52 minutes early\nKroger Display Case Photo - Destination Bunker\nCompleted early\nkrg018F649\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:48 AM - 3 Jul 2026 by krg018F649\nan hour and 11 minutes early\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F442\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:11 AM - 3 Jul 2026 by krg018F442\nKroger Display Case Photo\nCompleted\nkrg018F650\n1 exception\n2 comments\nLocation unknown\nCompleted - 7:34 AM - 3 Jul 2026 by krg018F650\nKroger Display Case Photo\nCompleted late\nkrg018F637\n1 exception\n4 comments\nInside designated location\nCompleted - 9:35 AM - 3 Jul 2026 by krg018F637\n35 minutes late",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720582",
+      "id": "20720582",
+      "text": "Kroger Display Case Photo\nCompleted early\nkrg018F492\n1 exception\n1 comment\nLocation unknown\nCompleted - 12:07 PM - 2 Jul 2026 by krg018F492\n18 hours and 52 minutes early",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720563",
+      "id": "20720563",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted early\nkrg018F649\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:48 AM - 3 Jul 2026 by krg018F649\nan hour and 11 minutes early",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720538",
+      "id": "20720538",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F442\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:11 AM - 3 Jul 2026 by krg018F442",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720521",
+      "id": "20720521",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F650\n1 exception\n2 comments\nLocation unknown\nCompleted - 7:34 AM - 3 Jul 2026 by krg018F650",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720517",
+      "id": "20720517",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F442\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:11 AM - 3 Jul 2026 by krg018F442\nKroger Display Case Photo\nCompleted\nkrg018F650\n1 exception\n2 comments\nLocation unknown\nCompleted - 7:34 AM - 3 Jul 2026 by krg018F650\nKroger Display Case Photo\nCompleted late\nkrg018F637\n1 exception\n4 comments\nInside designated location\nCompleted - 9:35 AM - 3 Jul 2026 by krg018F637\n35 minutes late\nKroger Display Case Photo\nIn progress\nkrg018F649\n1 exception\n3 comments\nLocation unknown\nDue by 1:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F675\n1 exception\n3 comments\nInside designated location\nCompleted - 8:52 AM - 3 Jul 2026 by krg018F675\nKroger Display Case Photo\nCompleted\nkrg018F693\n1 exception\n4 comments\nLocation unknown\nCompleted - 7:41 AM - 3 Jul 2026 by krg018F693\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F775\n1 exception\n1 comment\nLocation unknown\nCompleted - 7:54 AM - 3 Jul 2026 by krg018F775\nKroger Display Case Photo\nCompleted\nkrg018F686\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:50 AM - 3 Jul 2026 by krg018F686\nKroger Display Case Photo\nCompleted\nkrg018F442\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:11 AM - 3 Jul 2026 by krg018F442\nKroger Display Case Photo\nCompleted\nkrg018F459\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:54 AM - 3 Jul 2026 by krg018F459",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720516",
+      "id": "20720516",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F649\n1 exception\n3 comments\nLocation unknown\nDue by 1:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720504",
+      "id": "20720504",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F442\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:11 AM - 3 Jul 2026 by krg018F442\nKroger Display Case Photo\nCompleted\nkrg018F650\n1 exception\n2 comments\nLocation unknown\nCompleted - 7:34 AM - 3 Jul 2026 by krg018F650\nKroger Display Case Photo\nCompleted late\nkrg018F637\n1 exception\n4 comments\nInside designated location\nCompleted - 9:35 AM - 3 Jul 2026 by krg018F637\n35 minutes late\nKroger Display Case Photo\nIn progress\nkrg018F649\n1 exception\n3 comments\nLocation unknown\nDue by 1:00 PM - 3 Jul 2026\nKroger Display Case Photo\nCompleted\nkrg018F675\n1 exception\n3 comments\nInside designated location\nCompleted - 8:52 AM - 3 Jul 2026 by krg018F675\nKroger Display Case Photo\nCompleted\nkrg018F693\n1 exception\n4 comments\nLocation unknown\nCompleted - 7:41 AM - 3 Jul 2026 by krg018F693\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F775\n1 exception\n1 comment\nLocation unknown\nCompleted - 7:54 AM - 3 Jul 2026 by krg018F775\nKroger Display Case Photo\nCompleted\nkrg018F686\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:50 AM - 3 Jul 2026 by krg018F686\nKroger Display Case Photo\nCompleted\nkrg018F442\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:11 AM - 3 Jul 2026 by krg018F442\nKroger Display Case Photo\nCompleted\nkrg018F459\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:54 AM - 3 Jul 2026 by krg018F459",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720502",
+      "id": "20720502",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F693\n1 exception\n4 comments\nLocation unknown\nCompleted - 7:41 AM - 3 Jul 2026 by krg018F693",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720499",
+      "id": "20720499",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F775\n1 exception\n1 comment\nLocation unknown\nCompleted - 7:54 AM - 3 Jul 2026 by krg018F775",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720496",
+      "id": "20720496",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F686\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:50 AM - 3 Jul 2026 by krg018F686",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720486",
+      "id": "20720486",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F442\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:11 AM - 3 Jul 2026 by krg018F442",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720466",
+      "id": "20720466",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F459\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:54 AM - 3 Jul 2026 by krg018F459",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720450",
+      "id": "20720450",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F775\n1 exception\n4 comments\nLocation unknown\nCompleted - 7:55 AM - 3 Jul 2026 by krg018F775",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720435",
+      "id": "20720435",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F688\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:49 AM - 3 Jul 2026 by krg018F688",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720430",
+      "id": "20720430",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted late\nkrg018F671\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:58 AM - 3 Jul 2026 by krg018F671\nan hour late",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720404",
+      "id": "20720404",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F670\n1 exception\n3 comments\nInside designated location\nCompleted - 9:01 AM - 3 Jul 2026 by krg018F670\nKroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F481\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nIn progress\nkrg018F708\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo\nIn progress\nkrg018F458\n1 exception\n3 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026\nKroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F481\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:28 AM - 3 Jul 2026 by krg018F481\nKroger Display Case Photo\nCompleted\nkrg018F688\n1 exception\n6 comments\nLocation unknown\nCompleted - 8:50 AM - 3 Jul 2026 by krg018F688\nKroger Display Case Photo\nCompleted\nkrg018F708\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:53 AM - 3 Jul 2026 by krg018F708\nKroger Display Case Photo\nCompleted\nkrg018F458\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:59 AM - 3 Jul 2026 by krg018F458\nKroger Display Case Photo\nCompleted late\nkrg018F671\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:58 AM - 3 Jul 2026 by krg018F671\nan hour late\nKroger Display Case Photo\nCompleted\nkrg018F703\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:36 AM - 3 Jul 2026 by krg018F703",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720393",
+      "id": "20720393",
+      "text": "Kroger Display Case Photo - Destination Bunker\nIn progress\nkrg018F481\n1 exception\n1 comment\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720391",
+      "id": "20720391",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F708\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720389",
+      "id": "20720389",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F458\n1 exception\n3 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720386",
+      "id": "20720386",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F481\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:28 AM - 3 Jul 2026 by krg018F481",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720385",
+      "id": "20720385",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F688\n1 exception\n6 comments\nLocation unknown\nCompleted - 8:50 AM - 3 Jul 2026 by krg018F688",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720384",
+      "id": "20720384",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F708\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:53 AM - 3 Jul 2026 by krg018F708",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720382",
+      "id": "20720382",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F458\n1 exception\n3 comments\nLocation unknown\nCompleted - 8:59 AM - 3 Jul 2026 by krg018F458",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720380",
+      "id": "20720380",
+      "text": "Kroger Display Case Photo\nCompleted late\nkrg018F671\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:58 AM - 3 Jul 2026 by krg018F671\nan hour late",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720378",
+      "id": "20720378",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F703\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:36 AM - 3 Jul 2026 by krg018F703",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720368",
+      "id": "20720368",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F685\n1 exception\n2 comments\nLocation unknown\nCompleted - 8:52 AM - 3 Jul 2026 by krg018F685",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720342",
+      "id": "20720342",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F481\n1 exception\n4 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720335",
+      "id": "20720335",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F481\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:28 AM - 3 Jul 2026 by krg018F481",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720329",
+      "id": "20720329",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F447\n1 exception\n4 comments\nLocation unknown\nCompleted - 8:30 AM - 3 Jul 2026 by krg018F447",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720307",
+      "id": "20720307",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F751\n1 exception\n1 comment\nLocation unknown\nCompleted - 7:12 AM - 3 Jul 2026 by krg018F751",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720303",
+      "id": "20720303",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F743\n1 exception\n1 comment\nLocation unknown\nCompleted - 8:59 AM - 3 Jul 2026 by krg018F743",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720300",
+      "id": "20720300",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted late\nkrg018F757\n1 exception\n2 comments\nLocation unknown\nCompleted - 9:42 AM - 3 Jul 2026 by krg018F757\n42 minutes late",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720298",
+      "id": "20720298",
+      "text": "Kroger Display Case Photo - Destination Bunker\nCompleted\nkrg018F737\n1 exception\n1 comment\nLocation unknown\nCompleted - 9:16 AM - 3 Jul 2026 by krg018F737",
+      "title": "Kroger Display Case Photo - Destination Bunker"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720284",
+      "id": "20720284",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F463\n1 exception\n3 comments\nLocation unknown\nCompleted - 9:03 AM - 3 Jul 2026 by krg018F463",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720270",
+      "id": "20720270",
+      "text": "Kroger Display Case Photo\nIn progress\nkrg018F487\n1 exception\n3 comments\nLocation unknown\nDue by 6:00 PM - 3 Jul 2026",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720262",
+      "id": "20720262",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F487\n1 exception\n2 comments\nLocation unknown\nCompleted - 9:01 AM - 3 Jul 2026 by krg018F487",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720255",
+      "id": "20720255",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F751\n2 exceptions\n1 comment\nLocation unknown\nCompleted - 7:12 AM - 3 Jul 2026 by krg018F751",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720251",
+      "id": "20720251",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F743\n1 exception\n6 comments\nLocation unknown\nCompleted - 8:59 AM - 3 Jul 2026 by krg018F743",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720249",
+      "id": "20720249",
+      "text": "Kroger Display Case Photo\nCompleted late\nkrg018F757\n1 exception\n6 comments\nLocation unknown\nCompleted - 9:41 AM - 3 Jul 2026 by krg018F757\n41 minutes late",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720248",
+      "id": "20720248",
+      "text": "Kroger Display Case Photo\nCompleted\nkrg018F737\n1 exception\n4 comments\nLocation unknown\nCompleted - 9:15 AM - 3 Jul 2026 by krg018F737",
+      "title": "Kroger Display Case Photo"
+    },
+    {
+      "href": "https://us.trailapp.com/taskontrail?task=20720247",
+      "id": "20720247",
+      "text": "Kroger Display Case Photo\nCompleted late\nkrg018F448\n1 exception\n3 comments\nLocation unknown\nCompleted - 10:58 AM - 3 Jul 2026 by krg018F448\nan hour and 58 minutes late",
+      "title": "Kroger Display Case Photo"
+    }
+  ]
+}
