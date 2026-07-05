@@ -27,7 +27,8 @@ jobs:
         run: |
           rm -rf site
           mkdir site
-          unzip -q site.zip -d site
+          cp index.html _redirects DEPLOY.md site/
+          cp -R photo-compliance-app work site/
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
