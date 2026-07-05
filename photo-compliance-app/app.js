@@ -2103,10 +2103,14 @@ async function scoreCompliance({ runAuto = true, assistantFinding = "", allowPho
     const categoryScores = await scoreDisplayCategories(task, state.selectedSite, review);
     review.categoryScores = categoryScores;
     review.score = displayScoreRollup(categoryScores, score);
-    review.referenceId = categoryScores.vegetable.actual
-      ? categoryScores.vegetable.referenceId
-      : categoryScores.fruit.referenceId || review.referenceId;
-    review.selectedActualSrc = categoryScores.vegetable.actual || categoryScores.fruit.actual || actual;
+    if (allowPhotoSwitch) {
+      review.referenceId = categoryScores.vegetable.actual
+        ? categoryScores.vegetable.referenceId
+        : categoryScores.fruit.referenceId || review.referenceId;
+      review.selectedActualSrc = categoryScores.vegetable.actual || categoryScores.fruit.actual || actual;
+    } else {
+      review.selectedActualSrc = actual;
+    }
     const fruitText = Number.isFinite(review.categoryScores?.fruit?.score) ? `${review.categoryScores.fruit.score}/100` : "--";
     const vegetableText = Number.isFinite(review.categoryScores?.vegetable?.score) ? `${review.categoryScores.vegetable.score}/100` : "--";
     findings.push(categoryScoreFinding("Fruit", categoryScores.fruit));
