@@ -620,6 +620,10 @@ select {
   margin: 14px 0 12px;
   padding-top: 12px;
   border-top: 1px solid var(--line);
+  display: grid;
+  gap: 8px;
+  min-width: 0;
+  overflow: hidden;
 }
 
 .section-title.compact {
@@ -655,12 +659,18 @@ select {
 }
 
 .photo-frame.original-reference {
-  aspect-ratio: 4 / 3;
-  height: 220px;
+  aspect-ratio: auto;
+  width: 100%;
+  height: clamp(120px, 18vh, 180px);
+  max-height: 180px;
   background: #fff;
+  margin: 4px 0 0;
+  align-self: start;
 }
 
 .photo-frame img {
+  max-width: 100%;
+  max-height: 100%;
   width: 100%;
   height: 100%;
   object-fit: contain;
