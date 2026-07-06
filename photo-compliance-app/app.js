@@ -1138,13 +1138,13 @@ function renderPlanogramChecklist() {
       const missing = missingItems.has(key);
       const unverified = unverifiedItems.has(key) || (!checked && !missing);
       const row = document.createElement("div");
-      row.className = `planogram-row ${checked ? "" : "missing"}`;
+      row.className = `planogram-row ${checked ? "" : missing ? "missing" : "unverified"}`;
       row.innerHTML = `
         <label>
           <input type="checkbox" ${checked ? "checked" : ""} />
           ${item}
         </label>
-        <span>${checked ? "Present" : `Missing / -${PLANOGRAM_ITEM_DEDUCTION}`}</span>
+        <span>${checked ? "Present" : missing ? `Missing / -${PLANOGRAM_ITEM_DEDUCTION}` : "Needs review / no deduction"}</span>
       `;
       row.querySelector("input").addEventListener("change", (event) => {
         updatePresentPlanogramItem(planogramId, key, event.target.checked);
@@ -1255,15 +1255,11 @@ function getMissingPlanogramItemKeys(planogramId = getActivePlanogramId(), revie
   const planogram = PLANOGRAMS[planogramId];
   if (!planogram) return [];
   if (review.missingPlanogramItems?.[planogramId]) {
-    return [
-      ...new Set([
-        ...(review.missingPlanogramItems[planogramId] || []),
-        ...(review.unverifiedPlanogramItems?.[planogramId] || [])
-      ])
-    ];
+    return review.missingPlanogramItems[planogramId];
   }
   const present = new Set(review.presentPlanogramItems?.[planogramId] || []);
-  return getAllPlanogramItemKeys(planogram).filter((key) => !present.has(key));
+  const unverified = new Set(review.unverifiedPlanogramItems?.[planogramId] || []);
+  return getAllPlanogramItemKeys(planogram).filter((key) => !present.has(key) && !unverified.has(key));
 }
 
 function selectedBuiltInReference() {
@@ -1755,8 +1751,8 @@ async function scoreGenericPhotoCandidate(actualSrc, reference) {
 
   const totalItems = itemComparison.shelves.reduce((sum, shelf) => sum + shelf.items.length, 0);
   const markedItems = itemComparison.shelves.reduce((sum, shelf) => sum + shelf.items.filter((item) => item.marked).length, 0);
-  const missingItems = Math.max(0, totalItems - markedItems);
-  const unverifiedItems = 0;
+  const missingItems = itemComparison.shelves.reduce((sum, shelf) => sum + shelf.items.filter((item) => item.missing).length, 0);
+  const unverifiedItems = Math.max(0, totalItems - markedItems - missingItems);
   const shelfCoverage = itemComparison.shelves.filter((shelf) => {
     const shelfProduct = shelf.items.reduce((sum, item) => sum + (item.actualProduct || 0), 0) / Math.max(1, shelf.items.length);
     return shelf.items.some((item) => item.marked) || shelfProduct >= 0.14;
@@ -1872,21 +1868,26 @@ async function scoreBestCategoryPhoto(task, reference, category, assignedPhoto =
     (categoryLikelihood >= categoryThreshold || (clearlyLoadedCase && categoryLikelihood >= (category === "vegetable" ? 0.08 : 0.14)));
   if (!detected) {
     if (best.actual && clearlyLoadedCase) {
+      const reviewScore = category === "vegetable"
+        ? (categoryLikelihood >= 0.06 ? 45 : 0)
+        : (categoryLikelihood >= 0.12 ? 45 : 0);
       return {
-        score: 0,
+        score: reviewScore,
         referenceId: reference?.id || "",
         referenceName: reference?.name || "",
-        actual: "",
+        actual: reviewScore ? best.actual : "",
         coverage: Math.max(0, best.coverage || 0),
         confidence: Math.max(0, best.confidence || 0),
         categoryLikelihood,
         wallCaseLikelihood,
-        missingItems: best.totalItems || totalReferenceItems,
-        unverifiedItems: 0,
+        missingItems: reviewScore ? 0 : best.totalItems || totalReferenceItems,
+        unverifiedItems: reviewScore ? best.totalItems || totalReferenceItems : 0,
         totalItems: best.totalItems || totalReferenceItems,
-        status: assignedPhoto
-          ? `${category === "vegetable" ? "Vegetable" : "Fruit"} assignment did not match reference`
-          : category === "vegetable" ? "No vegetable photo detected" : "No fruit photo detected"
+        status: reviewScore
+          ? `${category === "vegetable" ? "Vegetable" : "Fruit"} needs review`
+          : assignedPhoto
+            ? `${category === "vegetable" ? "Vegetable" : "Fruit"} assignment did not match reference`
+            : category === "vegetable" ? "No vegetable photo detected" : "No fruit photo detected"
       };
     }
     return {
@@ -1952,7 +1953,7 @@ function displayScoreRollup(categoryScores = {}, fallback = null) {
 function categoryScoreFinding(label, score) {
   if (!score) return `${label} score: not scored.`;
   const categoryConfidence = Number.isFinite(score.categoryLikelihood) ? `, ${Math.round(score.categoryLikelihood * 100)}% category match` : "";
-  return `${label} score: ${score.score}/100 (${score.status}; ${Math.round((score.coverage || 0) * 100)}% coverage${categoryConfidence}, ${(score.missingItems || 0) + (score.unverifiedItems || 0)} missing).`;
+  return `${label} score: ${score.score}/100 (${score.status}; ${Math.round((score.coverage || 0) * 100)}% coverage${categoryConfidence}, ${score.missingItems || 0} missing, ${score.unverifiedItems || 0} need review).`;
 }
 
 function referenceCategory(referenceId) {
@@ -2066,9 +2067,9 @@ async function scoreCompliance({ runAuto = true, assistantFinding = "", allowPho
   }
 
   if (autoResult.available) {
-    findings.push(`Auto-check: ${autoResult.markedItems} present, ${autoResult.missingItems + autoResult.unverifiedItems} missing.`);
+    findings.push(`Auto-check: ${autoResult.markedItems} present, ${autoResult.missingItems} missing, ${autoResult.unverifiedItems} need review.`);
     autoResult.shelves.forEach((shelf) => {
-      findings.push(`Shelf ${shelf.shelf}: ${shelf.markedItems} present, ${shelf.missingItems + shelf.unverifiedItems} missing (${Math.round(shelf.averageSimilarity * 100)}% average match).`);
+      findings.push(`Shelf ${shelf.shelf}: ${shelf.markedItems} present, ${shelf.missingItems} missing, ${shelf.unverifiedItems} need review (${Math.round(shelf.averageSimilarity * 100)}% average match).`);
     });
   } else if (getActivePlanogram() && !autoResult.skipped) {
     findings.push("Planogram auto-check could not run for the selected photos.");
@@ -2090,7 +2091,7 @@ async function scoreCompliance({ runAuto = true, assistantFinding = "", allowPho
     findings.push(`-${PLANOGRAM_ITEM_DEDUCTION} point: likely missing ${planogramLabelFromKey(itemKey)}.`);
   });
   if (missingPlanogramItems.length > confirmedMissingPlanogramItems.length) {
-    findings.push(`${missingPlanogramItems.length - confirmedMissingPlanogramItems.length} additional planogram item(s) were marked missing but capped from extra deductions.`);
+    findings.push(`${missingPlanogramItems.length - confirmedMissingPlanogramItems.length} additional planogram item(s) need review but were not deducted.`);
   }
   score = Math.max(0, Math.min(100, Math.round(score)));
 
@@ -2192,16 +2193,18 @@ async function autoMarkLikelyPlanogramItems(actualSrc, referenceSrc, planogramId
       const key = planogramItemKey(shelf.shelf, item.name);
       if (item.marked) {
         present.add(key);
-      } else {
+      } else if (item.missing) {
         missing.add(key);
+      } else {
+        unverified.add(key);
       }
     });
     return {
       shelf: shelf.shelf,
       itemCount: shelf.items.length,
       markedItems: shelf.items.filter((item) => item.marked).length,
-      missingItems: shelf.items.filter((item) => !item.marked).length,
-      unverifiedItems: 0,
+      missingItems: shelf.items.filter((item) => item.missing).length,
+      unverifiedItems: shelf.items.filter((item) => !item.marked && !item.missing).length,
       averageSimilarity: shelf.averageSimilarity,
       items: shelf.items
     };
@@ -2217,7 +2220,7 @@ async function autoMarkLikelyPlanogramItems(actualSrc, referenceSrc, planogramId
   };
   review.unverifiedPlanogramItems = {
     ...(review.unverifiedPlanogramItems || {}),
-    [planogramId]: []
+    [planogramId]: [...unverified]
   };
 
   const markedShelves = shelves.filter((shelf) => shelf.markedItems > 0);
@@ -2835,7 +2838,7 @@ function buildComplianceEmailDraft(row, email = "") {
     "",
     formatTaskReport("Destination Bunker", bunkerTask, bunkerReview),
     "",
-    "Please correct the missing items before the next upload.",
+    "Please review the missing or unverified items and correct the display before the next upload.",
     "",
     "Thank you."
   ].join("\n");
