@@ -1,5 +1,5 @@
 {
-  "latestDate": "2026-07-06",
+  "latestDate": "2026-07-07",
   "dates": [
     {
       "date": "2026-07-02",
@@ -45,6 +45,15 @@
       "importedAt": "2026-07-06T13:51:56",
       "stores": 64,
       "displayPhotos": 226
+    },
+    {
+      "date": "2026-07-07",
+      "label": "July 7, 2026",
+      "sourceDateRange": "2026-07-07 to 2026-07-07",
+      "path": "../work/daily/display_case_photo_rows_2026-07-07.json",
+      "importedAt": "2026-07-07T14:35:44",
+      "stores": 64,
+      "displayPhotos": 249
     }
   ]
 }
