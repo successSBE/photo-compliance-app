@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: photo-compliance-app
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: APP_USERS_JSON
+        sync: false
+
+  - type: cron
+    name: photo-compliance-trail-import
+    runtime: node
+    schedule: "0 14 * * *"
+    buildCommand: npm install
+    startCommand: npm run import:trail
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: TRAIL_IMPORT_NOTES
+        value: "Trail import automation needs an API export or service-account flow before it can refresh data unattended."

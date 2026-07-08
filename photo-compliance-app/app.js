@@ -9,10 +9,7 @@ const TRAIL_CONNECTION_KEY = "photoComplianceTrailConnection";
 const LOCATION_EMAILS_KEY = "photoComplianceLocationEmails";
 const FRUIT_SIZE_KEY = "photoComplianceFruitSizes";
 const TRAIL_BASE_URL = "https://us.trailapp.com";
-const APP_USERS = [
-  { email: "success@elevatesbe.com", password: "Melon2021" },
-  { email: "Paul.neal1990@gmail.com", password: "Melon2021" }
-];
+const LOCAL_DEV_HOSTS = new Set(["localhost", "127.0.0.1", ""]);
 const BUILT_IN_REFERENCES = {
   display: [
     {
@@ -437,15 +434,22 @@ document.addEventListener("DOMContentLoaded", async () => {
   cacheElements();
   wireEvents();
 
-  if (hasAllowedSession()) {
-    showWorkspace();
+  if (await hasAllowedSession()) {
+    await showWorkspace();
   }
 });
 
-function hasAllowedSession() {
-  const session = loadJson(SESSION_KEY, null);
-  if (!session?.email) return false;
-  return APP_USERS.some((entry) => entry.email.toLowerCase() === String(session.email).toLowerCase());
+async function hasAllowedSession() {
+  const serverSession = await authRequest("/api/session");
+  if (serverSession?.authenticated) {
+    saveJson(SESSION_KEY, { email: serverSession.email, signedInAt: serverSession.signedInAt || new Date().toISOString() });
+    return true;
+  }
+  if (serverSession?.available === false && isLocalDevHost()) {
+    return Boolean(loadJson(SESSION_KEY, null)?.email);
+  }
+  window.localStorage?.removeItem(SESSION_KEY);
+  return false;
 }
 
 function resetLocalStateWhenRequested() {
@@ -559,22 +563,44 @@ function cacheElements() {
 }
 
 function wireEvents() {
-  els.loginForm.addEventListener("submit", (event) => {
+  els.loginForm.addEventListener("submit", async (event) => {
     event.preventDefault();
     const email = els.emailInput.value.trim().toLowerCase();
     const password = els.passwordInput.value.trim();
     if (!email || !password) return;
-    const user = APP_USERS.find((entry) => entry.email.toLowerCase() === email && entry.password === password);
-    if (!user) {
+    const login = await authRequest("/api/login", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ email, password })
+    });
+
+    if (login?.authenticated) {
+      showLoginError("");
+      saveJson(SESSION_KEY, { email: login.email, signedInAt: login.signedInAt || new Date().toISOString() });
+      await showWorkspace();
+      return;
+    }
+
+    if (login?.available === false && isLocalDevHost()) {
+      showLoginError("");
+      saveJson(SESSION_KEY, { email, signedInAt: new Date().toISOString(), localDev: true });
+      await showWorkspace();
+      return;
+    }
+
+    if (login?.configured === false) {
+      showLoginError("Server login is not configured yet. Set APP_USERS_JSON in Render.");
+      return;
+    }
+
+    if (!login?.authenticated) {
       showLoginError("Email or password is incorrect.");
       return;
     }
-    showLoginError("");
-    saveJson(SESSION_KEY, { email: user.email, signedInAt: new Date().toISOString() });
-    showWorkspace();
   });
 
-  els.logoutButton.addEventListener("click", () => {
+  els.logoutButton.addEventListener("click", async () => {
+    await authRequest("/api/logout", { method: "POST" });
     window.localStorage?.removeItem(SESSION_KEY);
     els.workspaceView.classList.add("hidden");
     els.loginView.classList.remove("hidden");
@@ -1822,6 +1848,26 @@ async function scoreDisplayCategories(task, site = state.selectedSite, review = 
   }
 
   return { vegetable, fruit };
+}
+
+async function authRequest(path, options = {}) {
+  try {
+    const response = await fetch(path, {
+      credentials: "same-origin",
+      cache: "no-store",
+      ...options
+    });
+    const contentType = response.headers.get("content-type") || "";
+    if (!contentType.includes("application/json")) return { available: false };
+    const data = await response.json();
+    return { available: true, ...data };
+  } catch {
+    return { available: false };
+  }
+}
+
+function isLocalDevHost() {
+  return LOCAL_DEV_HOSTS.has(window.location.hostname);
 }
 
 async function chooseDisplayCategoryPhotoPair(taskImages, vegetableReference, fruitReference, assignments = {}) {

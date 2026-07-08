@@ -1,0 +1,14 @@
+{
+  "name": "photo-compliance-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Michigan Food Safety Compliance photo review app.",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check photo-compliance-app/app.js",
+    "import:trail": "node scripts/import-trail-daily.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
