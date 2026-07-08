@@ -468,12 +468,31 @@ select {
 }
 
 .detail-header,
-.section-title,
-.review-actions {
+.section-title {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 12px;
+}
+
+.review-actions {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(140px, 1fr));
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+}
+
+.review-actions button,
+.review-actions .task-link {
+  width: 100%;
+  min-height: 44px;
+  padding: 8px 10px;
+  line-height: 1.2;
+  text-align: center;
+  white-space: normal;
 }
 
 .score-ring {
@@ -814,6 +833,9 @@ select {
   display: grid;
   gap: 8px;
   margin: 10px 0 18px;
+  max-height: clamp(360px, 56vh, 760px);
+  overflow: auto;
+  padding-right: 4px;
 }
 
 .check-row {
@@ -850,7 +872,7 @@ select {
   display: grid;
   gap: 10px;
   margin-top: 10px;
-  max-height: 360px;
+  max-height: clamp(520px, 70vh, 980px);
   overflow: auto;
   padding-right: 4px;
 }
@@ -990,10 +1012,13 @@ select {
   }
 
   .topbar,
-  .detail-header,
-  .review-actions {
+  .detail-header {
     align-items: stretch;
     flex-direction: column;
+  }
+
+  .review-actions {
+    grid-template-columns: 1fr;
   }
 
   .calendar-controls {

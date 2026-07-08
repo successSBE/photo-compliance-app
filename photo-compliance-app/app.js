@@ -551,6 +551,7 @@ function cacheElements() {
     "compareButton",
     "scoreButton",
     "emailLocationButton",
+    "downloadStoreReportButton",
     "taskLink"
   ].forEach((id) => {
     els[id] = document.getElementById(id);
@@ -638,6 +639,7 @@ function wireEvents() {
   els.runAllChecksButton.addEventListener("click", runAllStoreChecks);
   els.saveLocationEmailButton.addEventListener("click", saveSelectedLocationEmail);
   els.emailLocationButton.addEventListener("click", emailSelectedLocationReport);
+  els.downloadStoreReportButton.addEventListener("click", downloadSelectedStoreReport);
   els.exportButton.addEventListener("click", exportScores);
   els.exportEmailDraftsButton.addEventListener("click", exportComplianceEmailDrafts);
 }
@@ -1790,8 +1792,26 @@ async function scoreDisplayCategories(task, site = state.selectedSite, review = 
   const taskImages = getTaskImages(task);
   const vegetableAssignment = currentTaskAssignment(assignments.vegetable, taskImages);
   const fruitAssignment = currentTaskAssignment(assignments.fruit, taskImages);
-  let vegetable = await scoreBestCategoryPhoto(task, vegetableReference, "vegetable", vegetableAssignment);
-  let fruit = await scoreBestCategoryPhoto(task, fruitReference, "fruit", fruitAssignment);
+  const pairedPhotos = await chooseDisplayCategoryPhotoPair(taskImages, vegetableReference, fruitReference, {
+    vegetable: vegetableAssignment,
+    fruit: fruitAssignment
+  });
+  let vegetable = await scoreBestCategoryPhoto(
+    task,
+    vegetableReference,
+    "vegetable",
+    vegetableAssignment || pairedPhotos.vegetable,
+    [],
+    vegetableAssignment ? "Assigned photo" : "Auto selected photo"
+  );
+  let fruit = await scoreBestCategoryPhoto(
+    task,
+    fruitReference,
+    "fruit",
+    fruitAssignment || pairedPhotos.fruit,
+    [],
+    fruitAssignment ? "Assigned photo" : "Auto selected photo"
+  );
 
   if (!vegetableAssignment && !fruitAssignment && taskImages.length > 1 && vegetable.actual && vegetable.actual === fruit.actual) {
     if ((vegetable.confidence || 0) >= (fruit.confidence || 0)) {
@@ -1804,7 +1824,71 @@ async function scoreDisplayCategories(task, site = state.selectedSite, review = 
   return { vegetable, fruit };
 }
 
-async function scoreBestCategoryPhoto(task, reference, category, assignedPhoto = "", excludedPhotos = []) {
+async function chooseDisplayCategoryPhotoPair(taskImages, vegetableReference, fruitReference, assignments = {}) {
+  const validPhotos = taskImages.filter(Boolean);
+  const assignedVegetable = validPhotos.includes(assignments.vegetable) ? assignments.vegetable : "";
+  const assignedFruit = validPhotos.includes(assignments.fruit) ? assignments.fruit : "";
+  if (validPhotos.length <= 1 || (assignedVegetable && assignedFruit)) {
+    return { vegetable: assignedVegetable, fruit: assignedFruit };
+  }
+
+  const candidates = [];
+  for (const photo of validPhotos) {
+    const [vegetable, fruit] = await Promise.all([
+      vegetableReference ? scorePhotoAgainstReference(photo, vegetableReference) : Promise.resolve(null),
+      fruitReference ? scorePhotoAgainstReference(photo, fruitReference) : Promise.resolve(null)
+    ]);
+    candidates.push({ photo, vegetable, fruit });
+  }
+
+  const categoryFit = (entry, category) => {
+    const result = entry?.[category];
+    if (!result) return -1;
+    const other = entry[category === "vegetable" ? "fruit" : "vegetable"];
+    const confidence = result.confidence || 0;
+    const coverage = result.coverage || 0;
+    const shelfCoverage = result.shelfCoverage || 0;
+    const categoryLikelihood = Number.isFinite(result.categoryLikelihood) ? result.categoryLikelihood : 0.5;
+    const otherConfidence = other?.confidence || 0;
+    const otherLikelihood = Number.isFinite(other?.categoryLikelihood) ? other.categoryLikelihood : 0.5;
+    const categoryMargin = confidence - otherConfidence;
+    const likelihoodMargin = categoryLikelihood - otherLikelihood;
+    return (confidence * 0.42) + (coverage * 0.2) + (shelfCoverage * 0.12) + (categoryLikelihood * 0.28) + (categoryMargin * 0.18) + (likelihoodMargin * 0.18);
+  };
+
+  const entryForPhoto = (photo) => candidates.find((entry) => entry.photo === photo);
+  let bestPair = {
+    vegetable: assignedVegetable,
+    fruit: assignedFruit,
+    score: -Infinity
+  };
+
+  for (const vegetableEntry of candidates) {
+    for (const fruitEntry of candidates) {
+      const vegetablePhoto = assignedVegetable || vegetableEntry.photo;
+      const fruitPhoto = assignedFruit || fruitEntry.photo;
+      if (assignedVegetable && vegetableEntry.photo !== assignedVegetable) continue;
+      if (assignedFruit && fruitEntry.photo !== assignedFruit) continue;
+      if (validPhotos.length > 1 && vegetablePhoto === fruitPhoto) continue;
+
+      const resolvedVegetableEntry = entryForPhoto(vegetablePhoto) || vegetableEntry;
+      const resolvedFruitEntry = entryForPhoto(fruitPhoto) || fruitEntry;
+      const score = categoryFit(resolvedVegetableEntry, "vegetable") + categoryFit(resolvedFruitEntry, "fruit");
+      if (score > bestPair.score) {
+        bestPair = { vegetable: vegetablePhoto, fruit: fruitPhoto, score };
+      }
+    }
+  }
+
+  if (bestPair.score > -Infinity) return { vegetable: bestPair.vegetable, fruit: bestPair.fruit };
+
+  return {
+    vegetable: assignedVegetable || candidates.slice().sort((a, b) => categoryFit(b, "vegetable") - categoryFit(a, "vegetable"))[0]?.photo || "",
+    fruit: assignedFruit || candidates.slice().sort((a, b) => categoryFit(b, "fruit") - categoryFit(a, "fruit"))[0]?.photo || ""
+  };
+}
+
+async function scoreBestCategoryPhoto(task, reference, category, assignedPhoto = "", excludedPhotos = [], assignedStatus = "Assigned photo") {
   const excluded = new Set(excludedPhotos);
   let actualPhotos = assignedPhoto ? [assignedPhoto] : getTaskImages(task).filter((photo) => !excluded.has(photo));
   const totalReferenceItems = planogramItemCount(reference?.id);
@@ -1886,7 +1970,7 @@ async function scoreBestCategoryPhoto(task, reference, category, assignedPhoto =
         status: reviewScore
           ? `${category === "vegetable" ? "Vegetable" : "Fruit"} needs review`
           : assignedPhoto
-            ? `${category === "vegetable" ? "Vegetable" : "Fruit"} assignment did not match reference`
+            ? `${category === "vegetable" ? "Vegetable" : "Fruit"} ${assignedStatus === "Assigned photo" ? "assignment" : "auto selection"} did not match reference`
             : category === "vegetable" ? "No vegetable photo detected" : "No fruit photo detected"
       };
     }
@@ -1903,7 +1987,7 @@ async function scoreBestCategoryPhoto(task, reference, category, assignedPhoto =
       unverifiedItems: 0,
       totalItems: best.totalItems || totalReferenceItems,
       status: assignedPhoto
-        ? `${category === "vegetable" ? "Vegetable" : "Fruit"} assignment did not match reference`
+        ? `${category === "vegetable" ? "Vegetable" : "Fruit"} ${assignedStatus === "Assigned photo" ? "assignment" : "auto selection"} did not match reference`
         : category === "vegetable" ? "No vegetable photo detected" : "No fruit photo detected"
     };
   }
@@ -1940,7 +2024,7 @@ async function scoreBestCategoryPhoto(task, reference, category, assignedPhoto =
     missingItems: best.missingItems,
     unverifiedItems: best.unverifiedItems || 0,
     totalItems: best.totalItems,
-    status: assignedPhoto ? "Assigned photo" : "Detected"
+    status: assignedPhoto ? assignedStatus : "Detected"
   };
 }
 
@@ -2811,6 +2895,21 @@ function emailSelectedLocationReport() {
     : "Opened email draft without a saved address. Add an email to send directly to this location.";
 }
 
+function downloadSelectedStoreReport() {
+  const row = selectedRow();
+  if (!row) return;
+  const draft = buildComplianceEmailDraft(row, state.locationEmails[row.site] || "");
+  const reportDate = state.selectedDate || todayIsoDate();
+  const fileName = `photo-compliance-${safeFilePart(row.site)}-${reportDate}.txt`;
+  const body = [
+    draft.subject,
+    "",
+    draft.body
+  ].join("\n");
+  downloadText(body, fileName);
+  els.emailStatus.textContent = `Downloaded report for ${row.site}.`;
+}
+
 function exportComplianceEmailDrafts() {
   const header = ["Store", "Email", "Subject", "Body", "Mailto Link"];
   const lines = [header];
@@ -2884,6 +2983,15 @@ function getMissingPlanogramLabelsForReview(review) {
 function downloadCsv(lines, filename) {
   const csv = lines.map((line) => line.map(csvCell).join(",")).join("\n");
   const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+  downloadBlob(blob, filename);
+}
+
+function downloadText(text, filename) {
+  const blob = new Blob([text], { type: "text/plain;charset=utf-8" });
+  downloadBlob(blob, filename);
+}
+
+function downloadBlob(blob, filename) {
   const url = URL.createObjectURL(blob);
   const link = document.createElement("a");
   link.href = url;
@@ -2893,6 +3001,14 @@ function downloadCsv(lines, filename) {
   link.click();
   link.remove();
   URL.revokeObjectURL(url);
+}
+
+function safeFilePart(value) {
+  return String(value || "store")
+    .trim()
+    .replace(/[^a-z0-9]+/gi, "-")
+    .replace(/^-+|-+$/g, "")
+    .toLowerCase() || "store";
 }
 
 function readUpload(event, callback) {
