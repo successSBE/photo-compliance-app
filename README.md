@@ -34,4 +34,4 @@ Open `http://localhost:8787/photo-compliance-app/`.
 
 ## Trail Import
 
-The Render blueprint includes a 10 AM Eastern-oriented cron placeholder for daily Trail imports. The current app reads JSON files in `work/daily/`; a fully automated Trail refresh still needs a supported Trail export/API or service-account flow.
+The current Render blueprint deploys the live web app only. The app reads JSON files in `work/daily/`; a fully automated 10 AM Eastern Trail refresh should be added as a separate Render cron job after a supported Trail export/API or service-account flow is available.
