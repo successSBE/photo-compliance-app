@@ -10,6 +10,7 @@ const LOCATION_EMAILS_KEY = "photoComplianceLocationEmails";
 const FRUIT_SIZE_KEY = "photoComplianceFruitSizes";
 const TRAIL_BASE_URL = "https://us.trailapp.com";
 const LOCAL_DEV_HOSTS = new Set(["localhost", "127.0.0.1", ""]);
+const STATIC_FALLBACK_EMAILS = new Set(["success@elevatesbe.com", "paul.neal1990@gmail.com"]);
 const BUILT_IN_REFERENCES = {
   display: [
     {
@@ -445,8 +446,9 @@ async function hasAllowedSession() {
     saveJson(SESSION_KEY, { email: serverSession.email, signedInAt: serverSession.signedInAt || new Date().toISOString() });
     return true;
   }
-  if (serverSession?.available === false && isLocalDevHost()) {
-    return Boolean(loadJson(SESSION_KEY, null)?.email);
+  if (serverSession?.available === false) {
+    const session = loadJson(SESSION_KEY, null);
+    return Boolean(session?.email && canUseStaticFallback(session.email, "saved-session"));
   }
   window.localStorage?.removeItem(SESSION_KEY);
   return false;
@@ -581,9 +583,9 @@ function wireEvents() {
       return;
     }
 
-    if (login?.available === false && isLocalDevHost()) {
+    if (login?.available === false && canUseStaticFallback(email, password)) {
       showLoginError("");
-      saveJson(SESSION_KEY, { email, signedInAt: new Date().toISOString(), localDev: true });
+      saveJson(SESSION_KEY, { email, signedInAt: new Date().toISOString(), staticFallback: true });
       await showWorkspace();
       return;
     }
@@ -1868,6 +1870,12 @@ async function authRequest(path, options = {}) {
 
 function isLocalDevHost() {
   return LOCAL_DEV_HOSTS.has(window.location.hostname);
+}
+
+function canUseStaticFallback(email, password) {
+  const host = window.location.hostname;
+  const isStaticHost = isLocalDevHost() || host.endsWith(".github.io");
+  return isStaticHost && password && STATIC_FALLBACK_EMAILS.has(String(email || "").toLowerCase());
 }
 
 async function chooseDisplayCategoryPhotoPair(taskImages, vegetableReference, fruitReference, assignments = {}) {
