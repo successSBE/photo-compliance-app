@@ -15,7 +15,7 @@ services:
       - key: APP_USER_1_PASSWORD
         sync: false
       - key: APP_USER_2_EMAIL
-        value: paul.neal1990@gmil.com
+        value: paul.neal1990@gmail.com
       - key: APP_USER_2_PASSWORD
         sync: false
 

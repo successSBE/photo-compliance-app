@@ -17,7 +17,7 @@ Create the Render service from `render.yaml`. It creates these login environment
 ```text
 APP_USER_1_EMAIL=success@elevatesbe.com
 APP_USER_1_PASSWORD=Melon2021
-APP_USER_2_EMAIL=paul.neal1990@gmil.com
+APP_USER_2_EMAIL=paul.neal1990@gmail.com
 APP_USER_2_PASSWORD=Melon2021
 ```
 

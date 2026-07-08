@@ -10,7 +10,7 @@ const LOCATION_EMAILS_KEY = "photoComplianceLocationEmails";
 const FRUIT_SIZE_KEY = "photoComplianceFruitSizes";
 const TRAIL_BASE_URL = "https://us.trailapp.com";
 const LOCAL_DEV_HOSTS = new Set(["localhost", "127.0.0.1", ""]);
-const STATIC_FALLBACK_EMAILS = new Set(["success@elevatesbe.com", "paul.neal1990@gmil.com"]);
+const STATIC_FALLBACK_EMAILS = new Set(["success@elevatesbe.com", "paul.neal1990@gmail.com"]);
 const STATIC_FALLBACK_PASSWORD = "Melon2021";
 const BUILT_IN_REFERENCES = {
   display: [
