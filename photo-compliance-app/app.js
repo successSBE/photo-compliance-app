@@ -1748,7 +1748,7 @@ async function scorePhotoAgainstReference(actualSrc, reference) {
     ...result,
     categoryLikelihood,
     wallCaseLikelihood,
-    confidence: result.confidence * 0.45 + categoryLikelihood * 0.25 + wallCaseLikelihood * 0.3
+    confidence: result.confidence * 0.58 + categoryLikelihood * 0.32 + wallCaseLikelihood * 0.1
   };
 }
 
@@ -1908,7 +1908,7 @@ async function chooseDisplayCategoryPhotoPair(taskImages, vegetableReference, fr
     const otherLikelihood = Number.isFinite(other?.categoryLikelihood) ? other.categoryLikelihood : 0.5;
     const categoryMargin = confidence - otherConfidence;
     const likelihoodMargin = categoryLikelihood - otherLikelihood;
-    return (confidence * 0.42) + (coverage * 0.2) + (shelfCoverage * 0.12) + (categoryLikelihood * 0.28) + (categoryMargin * 0.18) + (likelihoodMargin * 0.18);
+    return (confidence * 0.34) + (coverage * 0.18) + (shelfCoverage * 0.08) + (categoryLikelihood * 0.34) + (categoryMargin * 0.3) + (likelihoodMargin * 0.42);
   };
 
   const entryForPhoto = (photo) => candidates.find((entry) => entry.photo === photo);
@@ -2057,12 +2057,15 @@ async function scoreBestCategoryPhoto(task, reference, category, assignedPhoto =
   const shelfScore = Math.round((best.shelfCoverage || 0) * 100);
   const productScore = Math.round((best.productCoverage || 0) * 100);
   const confidenceScore = Math.round((best.confidence || 0) * 100);
-  const complianceBase = Math.round(caseCoverageScore * 0.45 + shelfScore * 0.25 + productScore * 0.2 + confidenceScore * 0.1);
-  score = Math.min(score, Math.max(45, complianceBase));
-  score -= Math.round((1 - (best.photoSimilarity || best.similarity)) * (category === "vegetable" ? 5 : 4));
-  score -= Math.round((1 - categoryLikelihood) * (category === "vegetable" ? 8 : 6));
-  score -= Math.round((1 - wallCaseLikelihood) * 4);
+  const markedRatio = (best.markedItems || 0) / Math.max(1, best.totalItems || totalReferenceItems);
+  const markedScore = Math.round(markedRatio * 100);
+  const complianceBase = Math.round(caseCoverageScore * 0.34 + shelfScore * 0.22 + productScore * 0.18 + confidenceScore * 0.12 + markedScore * 0.14);
+  score = Math.min(score, Math.max(25, complianceBase));
+  score -= Math.round((1 - (best.photoSimilarity || best.similarity)) * (category === "vegetable" ? 4 : 3));
+  score -= Math.round((1 - categoryLikelihood) * (category === "vegetable" ? 10 : 8));
+  score -= Math.round((1 - wallCaseLikelihood) * 2);
   score -= best.missingItems * (category === "vegetable" ? 3 : 2);
+  score -= Math.round((best.unverifiedItems || 0) * 0.35);
   score = Math.max(0, Math.min(100, Math.round(score)));
 
   return {
@@ -2077,6 +2080,7 @@ async function scoreBestCategoryPhoto(task, reference, category, assignedPhoto =
     categoryLikelihood,
     wallCaseLikelihood,
     missingItems: best.missingItems,
+    markedItems: best.markedItems || 0,
     unverifiedItems: best.unverifiedItems || 0,
     totalItems: best.totalItems,
     status: assignedPhoto ? assignedStatus : "Detected"
@@ -2404,20 +2408,20 @@ async function comparePlanogramItemSections(actualSrc, referenceSrc, planogram) 
       const averageSimilarity = rawItems.reduce((sum, item) => sum + item.similarity, 0) / Math.max(1, rawItems.length);
       const maxSimilarity = Math.max(...rawItems.map((item) => item.similarity), 0);
       const adaptiveThreshold = Math.max(baseThreshold, Math.min(edgeShelf ? 0.62 : 0.7, averageSimilarity + (edgeShelf ? 0.02 : 0.03)));
-      const missingThreshold = edgeShelf ? 0.22 : 0.26;
+      const missingThreshold = edgeShelf ? 0.18 : 0.22;
       const items = rawItems.map((item) => {
         const planogramMode = item.referenceMode === "planogram";
         const minimumFill = edgeShelf ? 0.12 : 0.15;
         const enoughFill = (item.productRatio >= (edgeShelf ? 0.28 : 0.32) && item.actualProduct >= (planogramMode ? minimumFill * 0.65 : minimumFill))
           || item.actualProduct >= (edgeShelf ? 0.18 : 0.22);
         const strongFill = item.productRatio >= (edgeShelf ? 0.42 : 0.48) && item.actualProduct >= (planogramMode ? minimumFill * 0.65 : minimumFill);
-        const emptyShelf = item.productRatio <= (edgeShelf ? 0.12 : 0.16) && item.actualProduct <= (edgeShelf ? 0.1 : 0.12);
-        const darkEmpty = !planogramMode && item.darkDelta >= (edgeShelf ? 0.18 : 0.12) && item.productRatio <= (edgeShelf ? 0.46 : 0.52);
-        const similarityMissing = item.similarity <= missingThreshold && item.productRatio <= (planogramMode ? (edgeShelf ? 0.16 : 0.2) : (edgeShelf ? 0.32 : 0.38));
+        const emptyShelf = item.productRatio <= (edgeShelf ? 0.09 : 0.12) && item.actualProduct <= (edgeShelf ? 0.08 : 0.1);
+        const darkEmpty = !planogramMode && item.darkDelta >= (edgeShelf ? 0.22 : 0.16) && item.productRatio <= (edgeShelf ? 0.34 : 0.42) && item.actualProduct <= (edgeShelf ? 0.18 : 0.22);
+        const similarityMissing = item.similarity <= missingThreshold && item.actualProduct <= (edgeShelf ? 0.13 : 0.16) && item.productRatio <= (planogramMode ? (edgeShelf ? 0.12 : 0.16) : (edgeShelf ? 0.24 : 0.3));
         const marked = (item.similarity >= adaptiveThreshold && enoughFill)
           || (strongFill && item.similarity >= (edgeShelf ? 0.36 : 0.4))
           || (edgeShelf && enoughFill && item.similarity >= 0.4 && item.similarity >= maxSimilarity - 0.12);
-        const missing = !marked && !planogramMode && (emptyShelf || darkEmpty || similarityMissing);
+        const missing = !marked && !planogramMode && (emptyShelf || (darkEmpty && item.similarity <= missingThreshold + 0.08) || similarityMissing);
         return {
           ...item,
           marked,
@@ -2763,8 +2767,8 @@ async function imageCategoryLikelihood(src, category) {
     const image = await loadComparableImage(src);
     const features = imageCategoryFeatures(image);
     const likelihood = category === "vegetable"
-      ? clamp01(0.1 + features.dark * 0.75 + features.shelfLines * 0.65 + features.verticalDark * 0.35 + features.green * 0.15 - features.red * 0.45 - features.bright * 0.15)
-      : clamp01(0.22 + features.red * 0.7 + features.orange * 0.25 + features.product * 0.3 + (1 - features.dark) * 0.23 - features.shelfLines * 0.08);
+      ? clamp01(0.08 + features.green * 0.28 + features.dark * 0.55 + features.shelfLines * 0.5 + features.verticalDark * 0.25 - features.red * 0.55 - features.orange * 0.25 - features.bright * 0.12)
+      : clamp01(0.18 + features.red * 0.78 + features.orange * 0.32 + features.product * 0.28 + (1 - features.dark) * 0.22 - features.green * 0.08 - features.shelfLines * 0.06);
     IMAGE_FEATURE_CACHE.set(cacheKey, likelihood);
     return likelihood;
   } catch {
