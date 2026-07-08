@@ -10,7 +10,13 @@ services:
         value: production
       - key: SESSION_SECRET
         generateValue: true
-      - key: APP_USERS_JSON
+      - key: APP_USER_1_EMAIL
+        value: success@elevatesbe.com
+      - key: APP_USER_1_PASSWORD
+        sync: false
+      - key: APP_USER_2_EMAIL
+        value: paul.neal1990@gmil.com
+      - key: APP_USER_2_PASSWORD
         sync: false
 
   - type: cron

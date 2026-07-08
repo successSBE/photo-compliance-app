@@ -12,13 +12,16 @@ This repo is Render-ready as a Node web service. The service:
 - stores the login session in an HTTP-only cookie
 - blocks `/work` data files unless the user is signed in
 
-Create the Render service from `render.yaml`, then set this private environment variable in Render:
+Create the Render service from `render.yaml`. It creates these login environment variables:
 
-```json
-APP_USERS_JSON=[{"email":"success@elevatesbe.com","password":"REPLACE_IN_RENDER"},{"email":"Paul.neal1990@gmail.com","password":"REPLACE_IN_RENDER"}]
+```text
+APP_USER_1_EMAIL=success@elevatesbe.com
+APP_USER_1_PASSWORD=Melon2021
+APP_USER_2_EMAIL=paul.neal1990@gmil.com
+APP_USER_2_PASSWORD=Melon2021
 ```
 
-Do not commit real passwords to the repo. Render stores this value privately.
+Set both password values inside Render. Render stores those values privately.
 
 ## Local Run
 
